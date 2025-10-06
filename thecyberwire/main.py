@@ -1,5 +1,5 @@
-import all_links_collector
-import async_individual_link_processor
+from . import all_links_collector
+from . import async_individual_link_processor
 import csv
 import asyncio
 
@@ -18,6 +18,7 @@ async def main():
             writer = csv.DictWriter(file, fieldnames=final_list[0].keys())
             writer.writeheader()
             for data in final_list:
+                print(f'row data: {data}')
                 writer.writerow(data)
     else:
         print("No data to save")

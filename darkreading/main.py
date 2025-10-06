@@ -1,5 +1,5 @@
-import all_links_collector
-import async_individual_link_processor
+from . import all_links_collector
+from . import async_individual_link_processor
 import csv
 import asyncio
 

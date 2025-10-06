@@ -1,0 +1,22 @@
+2025-10-06 12:24:04,346 - DEBUG - Using selector: EpollSelector
+2025-10-06 12:24:04,349 - DEBUG - Starting new HTTPS connection (1): thecyberwire.com:443
+2025-10-06 12:24:04,507 - DEBUG - https://thecyberwire.com:443 "GET /newsletters/daily-briefing HTTP/1.1" 200 None
+2025-10-06 12:25:41,881 - DEBUG - Using selector: EpollSelector
+2025-10-06 12:25:41,885 - DEBUG - Starting new HTTPS connection (1): thecyberwire.com:443
+2025-10-06 12:25:41,998 - DEBUG - https://thecyberwire.com:443 "GET /newsletters/daily-briefing HTTP/1.1" 200 None
+2025-10-06 12:27:28,203 - DEBUG - Using selector: EpollSelector
+2025-10-06 12:27:28,207 - DEBUG - Starting new HTTPS connection (1): thecyberwire.com:443
+2025-10-06 12:27:28,339 - DEBUG - https://thecyberwire.com:443 "GET /newsletters/daily-briefing HTTP/1.1" 200 None
+2025-10-06 12:28:14,275 - DEBUG - Using selector: EpollSelector
+2025-10-06 12:28:14,279 - DEBUG - Starting new HTTPS connection (1): thecyberwire.com:443
+2025-10-06 12:28:14,334 - DEBUG - https://thecyberwire.com:443 "GET /newsletters/daily-briefing HTTP/1.1" 200 None
+2025-10-06 12:29:59,937 - DEBUG - Using selector: EpollSelector
+2025-10-06 12:29:59,941 - DEBUG - Starting new HTTPS connection (1): thecyberwire.com:443
+2025-10-06 12:30:00,027 - DEBUG - https://thecyberwire.com:443 "GET /newsletters/daily-briefing HTTP/1.1" 200 None
+2025-10-06 12:36:27,528 - DEBUG - Using selector: EpollSelector
+2025-10-06 13:10:09,527 - ERROR - Error processing https://www.darkreading.com/events/-dark-reading-virtual-event-know-your-enemy-how-cybercriminals-and-nation-state-hackers-operate: Locator expected to be in viewport
+Actual value: <element(s) not found> 
+Call log:
+  - LocatorAssertions.to_be_in_viewport with timeout 5000ms
+  - waiting for locator("span[data-testid=\"article-title\"]")
+

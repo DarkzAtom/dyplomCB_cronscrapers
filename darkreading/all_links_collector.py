@@ -13,7 +13,7 @@ def get_all_links_of_articles_until_lastsaved_met():
     
     
     # getting the last saved link met | pobieranie ostatniego zapisanego linku
-    with open("lastsaved_articlelink.txt", "r") as file:
+    with open("darkreading/lastsaved_articlelink.txt", "r") as file:
         lastsaved_articlelink = file.read()
     
     collected_links_list = []
@@ -27,7 +27,7 @@ def get_all_links_of_articles_until_lastsaved_met():
     if collected_links_list:
         lastsaved_articlelink = collected_links_list[0]
 
-    with open("lastsaved_articlelink.txt", "w") as file:
+    with open("darkreading/lastsaved_articlelink.txt", "w") as file:
         file.write(lastsaved_articlelink)
 
     for link in collected_links_list:
