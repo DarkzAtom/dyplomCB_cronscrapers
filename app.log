@@ -20,3 +20,2060 @@ Call log:
   - LocatorAssertions.to_be_in_viewport with timeout 5000ms
   - waiting for locator("span[data-testid=\"article-title\"]")
 
+2025-10-31 04:04:32,124 - DEBUG - Starting new HTTPS connection (1): sekurak.pl:443
+2025-10-31 04:04:32,565 - DEBUG - https://sekurak.pl:443 "GET / HTTP/1.1" 200 17629
+2025-10-31 04:05:24,121 - DEBUG - Starting new HTTPS connection (1): sekurak.pl:443
+2025-10-31 04:05:24,386 - DEBUG - https://sekurak.pl:443 "GET / HTTP/1.1" 200 17629
+2025-10-31 04:05:24,452 - INFO - Anchor element found. Proceeding with link extraction.
+2025-10-31 04:05:24,464 - INFO - Anchor element content: <div id="content" role="main">
+ <div class="one" id="ppc-box">
+  <div class="ppc-box">
+   <div class="ppc">
+    <h3>
+     W biegu
+    </h3>
+    <ul>
+     <li>
+      <a class="ppc-post-title" href="https://sekurak.pl/wazna-informacja-dla-uzytkownikow-kluczy-u2f-na-x-twitterze-poradnik/" title="Article Ważna informacja dla użytkowników kluczy U2F na X (Twitterze) [poradnik] published at 30 października, 2025 5:06 am">
+       Ważna informacja dla użytkowników kluczy U2F na X (Twitterze) [poradnik]
+
+2025-10-31 04:07:24,033 - DEBUG - Starting new HTTPS connection (1): sekurak.pl:443
+2025-10-31 04:07:24,398 - DEBUG - https://sekurak.pl:443 "GET / HTTP/1.1" 200 17629
+2025-10-31 04:07:24,461 - INFO - Anchor element found. Proceeding with link extraction.
+2025-10-31 04:07:24,473 - INFO - Anchor element content: <div id="content" role="main">
+ <div class="one" id="ppc-box">
+  <div class="ppc-box">
+   <div class="ppc">
+    <h3>
+     W biegu
+    </h3>
+    <ul>
+     <li>
+      <a class="ppc-post-title" href="https://sekurak.pl/wazna-informacja-dla-uzytkownikow-kluczy-u2f-na-x-twitterze-poradnik/" title="Article Ważna informacja dla użytkowników kluczy U2F na X (Twitterze) [poradnik] published at 30 października, 2025 5:06 am">
+       Ważna informacja dla użytkowników kluczy U2F na X (Twitterze) [poradnik]
+      </a>
+     </li>
+     <li>
+      <a class="ppc-post-title" href="https://sekurak.pl/atak-na-zaklad-produkujacy-komponenty-do-amerykanskiej-broni-jadrowej/" title="Article Atak na zakład produkujący komponenty do amerykańskiej broni jądrowej published at 30 października, 2025 5:01 am">
+       Atak na zakład produkujący komponenty do amerykańskiej broni jądrowej
+      </a>
+     </li>
+     <li>
+      <a class="ppc-post-title" href="https://sekurak.pl/operacja-simcartel-7-osob-zatrzymanych-przejete-40-tys-kart-sim-z-80-krajow/" title="Article Operacja SIMCARTEL - 7 osób zatrzymanych, przejęte 40 tys. kart SIM z 80 krajów published at 30 października, 2025 4:57 am">
+       Operacja SIMCARTEL - 7 osób zatrzymanych, przejęte 40 tys. kart SIM z 80 krajów
+      </a>
+     </li>
+     <li>
+      <a class="ppc-post-title" href="https://sekurak.pl/bledy-w-implementacji-krzywej-fourq-od-cloudflare-pozwalaly-na-odzyskanie-klucza-prywatnego-cve-2025-8556/" title="Article Błędy w implementacji krzywej FourQ od Cloudflare pozwalały na odzyskanie klucza prywatnego [CVE-2025-8556] published at 30 października, 2025 4:54 am">
+       Błędy w implementacji krzywej FourQ od Cloudflare pozwalały na odzyskanie klucza prywatnego [CVE-2025-8556]
+      </a>
+     </li>
+     <li>
+      <a class="ppc-post-title" href="https://sekurak.pl/za-nami-pwn2own-2025-ujawniono-az-73-ataki-zero-day-laczna-pula-nagrod-przekroczyla-milion-dolarow/" title="Article Za nami Pwn2Own 2025. Ujawniono aż 73 ataki zero-day. Łączna pula nagród przekroczyła milion dolarów.  published at 28 października, 2025 10:19 pm">
+       Za nami Pwn2Own 2025. Ujawniono aż 73 ataki zero-day. Łączna pula nagród przekroczyła milion dolarów.
+      </a>
+     </li>
+    </ul>
+   </div>
+  </div>
+ </div>
+ <div class="fb-like" data-action="like" data-href="http://facebook.com/sekurak" data-layout="standard" data-share="false" data-show-faces="false">
+ </div>
+ <br/>
+ <br/>
+ <article class="post" id="post-52876">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/platforma-e-commerce-sky-shop-pl-informuje-swoich-klientow-o-ataku/" title="Platforma e-commerce Sky-Shop informuje swoich klientów o ataku.">
+    Platforma e-commerce Sky-Shop informuje swoich klientów o ataku.
+   </a>
+  </h2>
+  <div class="meta">
+   30 października 2025, 11:10 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/platforma-e-commerce-sky-shop-pl-informuje-swoich-klientow-o-ataku/#comments">
+    komentarze 3
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/platforma-e-commerce-sky-shop-pl-informuje-swoich-klientow-o-ataku/" title="Platforma e-commerce Sky-Shop informuje swoich klientów o ataku.">
+    <img alt="Platforma e-commerce Sky-Shop informuje swoich klientów o ataku." class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/10/skyshop-150x150.jpg" title="Platforma e-commerce Sky-Shop informuje swoich klientów o ataku."/>
+   </a>
+   <p>
+    To nie będzie łatwy poranek dla właścicieli sklepów prowadzonych na platformie e-commerce sky-shop.pl. Od rana, platforma prowadzi akcję informacyjną, dotyczącą ataku, który został wykryty 28.10.2025 r.  Sky-Shop rozesłał wiadomość e-mail do swoich klientów, w której obszernie informuje o zaistniałym incydencie. Według przeprowadzonej analizy powłamaniowej, do ataku miało dojść 19.10.2025, kiedy…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/platforma-e-commerce-sky-shop-pl-informuje-swoich-klientow-o-ataku/" title="Platforma e-commerce Sky-Shop informuje swoich klientów o ataku.">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52671">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/przelaczniki-bez-tajemnic-szkolenie-ktore-moze-zaskoczyc-nawet-doswiadczonych-adminow/" title="Przełączniki bez tajemnic – szkolenie, które może zaskoczyć nawet doświadczonych adminów">
+    Przełączniki bez tajemnic – szkolenie, które może zaskoczyć nawet doświadczonych adminów
+   </a>
+  </h2>
+  <div class="meta">
+   16 października 2025, 10:04 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/przelaczniki-bez-tajemnic-szkolenie-ktore-moze-zaskoczyc-nawet-doswiadczonych-adminow/#comments">
+    komentarze 2
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/przelaczniki-bez-tajemnic-szkolenie-ktore-moze-zaskoczyc-nawet-doswiadczonych-adminow/" title="Przełączniki bez tajemnic – szkolenie, które może zaskoczyć nawet doświadczonych adminów">
+    <img alt="Przełączniki bez tajemnic – szkolenie, które może zaskoczyć nawet doświadczonych adminów" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/10/sieciPW-1-150x150.jpg" title="Przełączniki bez tajemnic – szkolenie, które może zaskoczyć nawet doświadczonych adminów"/>
+   </a>
+   <p>
+    Sieć to żywy organizm. Każdy przełącznik to węzeł, przez który płyną kluczowe dane. Jedno źle skonfigurowane ustawienie warstwy drugiej i atakujący może znaleźć się w środku. Natywny VLAN 1 często pozostaje niezmieniony od pierwszego wdrożenia. Mechanizm Port Security działa domyślnie, ale czy wiesz, jak zabezpieczyć go przed sprytnymi atakami klasy…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/przelaczniki-bez-tajemnic-szkolenie-ktore-moze-zaskoczyc-nawet-doswiadczonych-adminow/" title="Przełączniki bez tajemnic – szkolenie, które może zaskoczyć nawet doświadczonych adminów">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52575">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/zabbix-grafana-czesc-2-przedstawianie-danych/" title="Zabbix + Grafana – część 2 – Przedstawianie danych">
+    Zabbix + Grafana – część 2 – Przedstawianie danych
+   </a>
+  </h2>
+  <div class="meta">
+   11 października 2025, 10:16 |
+   <a href="https://sekurak.pl/teksty/" rel="category tag">
+    Teksty
+   </a>
+   |
+   <a href="https://sekurak.pl/zabbix-grafana-czesc-2-przedstawianie-danych/#comments">
+    1 komentarz
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/zabbix-grafana-czesc-2-przedstawianie-danych/" title="Zabbix + Grafana – część 2 – Przedstawianie danych">
+    <img alt="Zabbix + Grafana – część 2 – Przedstawianie danych" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/10/image12-150x150.png" title="Zabbix + Grafana – część 2 – Przedstawianie danych"/>
+   </a>
+   <p>
+    Druga część naszej serii o integracji Zabbixa oraz Grafany. Tym razem Albert wprowadzi Czytelnika w świat przygotowania i prezentacji różnego typu danych przy pomocy dashboardów Grafany.
+   </p>
+   <a class="readMore" href="https://sekurak.pl/zabbix-grafana-czesc-2-przedstawianie-danych/" title="Zabbix + Grafana – część 2 – Przedstawianie danych">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52607">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/ostatnia-prosta-juz-za-10-dni-mega-sekurak-hacking-party-bilety-online-specjalny-bilet-dla-kumpla-i-pelna-agenda-wydarzenia/" title="Ostatnia prosta! Już za 10 dni Mega Sekurak Hacking Party. Bilety online, specjalny „bilet dla kumpla” i pełna agenda wydarzenia">
+    Ostatnia prosta! Już za 10 dni Mega Sekurak Hacking Party. Bilety online, specjalny „bilet dla kumpla” i pełna agenda wydarzenia
+   </a>
+  </h2>
+  <div class="meta">
+   10 października 2025, 11:06 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/ostatnia-prosta-juz-za-10-dni-mega-sekurak-hacking-party-bilety-online-specjalny-bilet-dla-kumpla-i-pelna-agenda-wydarzenia/#respond">
+    0 komentarzy
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/ostatnia-prosta-juz-za-10-dni-mega-sekurak-hacking-party-bilety-online-specjalny-bilet-dla-kumpla-i-pelna-agenda-wydarzenia/" title="Ostatnia prosta! Już za 10 dni Mega Sekurak Hacking Party. Bilety online, specjalny „bilet dla kumpla” i pełna agenda wydarzenia">
+    <img alt="Ostatnia prosta! Już za 10 dni Mega Sekurak Hacking Party. Bilety online, specjalny „bilet dla kumpla” i pełna agenda wydarzenia" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/10/unnamed-150x150.webp" title="Ostatnia prosta! Już za 10 dni Mega Sekurak Hacking Party. Bilety online, specjalny „bilet dla kumpla” i pełna agenda wydarzenia"/>
+   </a>
+   <p>
+    20 października zbliża się coraz większymi krokami. Jesteśmy naprawdę podekscytowani tą edycją Mega Sekurak Hacking Party. Włożyliśmy w nią całe serducho i przygotowaliśmy program inny niż wszystkie. Przekonajcie się sami 🙂 Zanim ruszymy, zapraszamy Cię jeszcze na otwarty event „Mega Sekurak Hacking Party 2025 – ostatnia prosta”. Jesteś zapisany? Przyjdź,…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/ostatnia-prosta-juz-za-10-dni-mega-sekurak-hacking-party-bilety-online-specjalny-bilet-dla-kumpla-i-pelna-agenda-wydarzenia/" title="Ostatnia prosta! Już za 10 dni Mega Sekurak Hacking Party. Bilety online, specjalny „bilet dla kumpla” i pełna agenda wydarzenia">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52525">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/hackowanie-wodociagow-na-zywo/" title="Hackowanie wodociągów na żywo!">
+    Hackowanie wodociągów na żywo!
+   </a>
+  </h2>
+  <div class="meta">
+   02 października 2025, 18:04 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/hackowanie-wodociagow-na-zywo/#comments">
+    komentarzy 5
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/hackowanie-wodociagow-na-zywo/" title="Hackowanie wodociągów na żywo!">
+    <img alt="Hackowanie wodociągów na żywo!" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/10/Zrzut-ekranu-2025-10-2-o-18.02.42-150x150.png" title="Hackowanie wodociągów na żywo!"/>
+   </a>
+   <p>
+    Wyobraź sobie cyberatak, który manipuluje procesem uzdatniania wody. Podczas naszego szkolenia Hackowanie wodociągów na żywo pokażemy Ci symulację takiego ataku na sieć wodociągową. Dowiesz się, gdzie mogą czaić się luki w zabezpieczeniach i – co kluczowe – jak je załatać dzięki skutecznym procedurom i kontrolom.  Nie musisz być ekspertem od…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/hackowanie-wodociagow-na-zywo/" title="Hackowanie wodociągów na żywo!">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52506">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/podszycie-pod-pakiet-npm-i-backdoor-w-serwerze-mcp/" title="Podszycie pod pakiet npm i backdoor w serwerze MCP">
+    Podszycie pod pakiet npm i backdoor w serwerze MCP
+   </a>
+  </h2>
+  <div class="meta">
+   01 października 2025, 08:59 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/podszycie-pod-pakiet-npm-i-backdoor-w-serwerze-mcp/#respond">
+    0 komentarzy
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/podszycie-pod-pakiet-npm-i-backdoor-w-serwerze-mcp/" title="Podszycie pod pakiet npm i backdoor w serwerze MCP">
+    <img alt="Podszycie pod pakiet npm i backdoor w serwerze MCP" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2023/01/hacker-ziom-150x150.jpeg" title="Podszycie pod pakiet npm i backdoor w serwerze MCP"/>
+   </a>
+   <p>
+    Systemy agentowe, duże modele językowe oraz już-nie-taka-nowość (chociaż wciąż zyskujące popularność) serwery MCP gościły na łamach sekurak.pl wielokrotnie. Pod jednym z artykułów, gdzie opisywaliśmy możliwe wektory ataków na serwery MCP, można było spotkać głosy sceptycznie podchodzące do tematu niebezpiecznych serwerów. Dlatego tym razem chcielibyśmy przedstawić atak, którego wystąpienie było tylko…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/podszycie-pod-pakiet-npm-i-backdoor-w-serwerze-mcp/" title="Podszycie pod pakiet npm i backdoor w serwerze MCP">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52496">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/krytyczne-podatnosci-rce-w-pad-cms-zgloszenie-przez-ekspertow-securitum-i-analiza-cert-polska-konieczne-natychmiastowe-dzialania/" title="Krytyczne podatności RCE w PAD CMS – zgłoszenie przez ekspertów Securitum i analiza CERT Polska – konieczne natychmiastowe działania">
+    Krytyczne podatności RCE w PAD CMS – zgłoszenie przez ekspertów Securitum i analiza CERT Polska – konieczne natychmiastowe działania
+   </a>
+  </h2>
+  <div class="meta">
+   30 września 2025, 22:33 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/krytyczne-podatnosci-rce-w-pad-cms-zgloszenie-przez-ekspertow-securitum-i-analiza-cert-polska-konieczne-natychmiastowe-dzialania/#comments">
+    komentarzy 12
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/krytyczne-podatnosci-rce-w-pad-cms-zgloszenie-przez-ekspertow-securitum-i-analiza-cert-polska-konieczne-natychmiastowe-dzialania/" title="Krytyczne podatności RCE w PAD CMS – zgłoszenie przez ekspertów Securitum i analiza CERT Polska – konieczne natychmiastowe działania">
+    <img alt="Krytyczne podatności RCE w PAD CMS – zgłoszenie przez ekspertów Securitum i analiza CERT Polska – konieczne natychmiastowe działania" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2023/08/hackerzzz-150x150.jpeg" title="Krytyczne podatności RCE w PAD CMS – zgłoszenie przez ekspertów Securitum i analiza CERT Polska – konieczne natychmiastowe działania"/>
+   </a>
+   <p>
+    Naszych dwóch audytorów bezpieczeństwa z Securitum – Robert Kruczek oraz Kamil Szczurowski w ramach działań typu happy hunting (spontaniczne testy systemów w celu poprawy jakości polskiego Internetu) wykryło krytyczne podatności typu unauthenticated Remote Code Execution (RCE) w systemie PAD CMS (na którym uruchamiane są aplikacje internetowe oraz biuletyny informacji publicznej)….
+   </p>
+   <a class="readMore" href="https://sekurak.pl/krytyczne-podatnosci-rce-w-pad-cms-zgloszenie-przez-ekspertow-securitum-i-analiza-cert-polska-konieczne-natychmiastowe-dzialania/" title="Krytyczne podatności RCE w PAD CMS – zgłoszenie przez ekspertów Securitum i analiza CERT Polska – konieczne natychmiastowe działania">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52470">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/hackerzy-vs-dane-medyczne-pokaz-hackowania-na-zywo/" title="Hackerzy vs dane medyczne. POKAZ HACKOWANIA NA ŻYWO">
+    Hackerzy vs dane medyczne. POKAZ HACKOWANIA NA ŻYWO
+   </a>
+  </h2>
+  <div class="meta">
+   29 września 2025, 11:38 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/hackerzy-vs-dane-medyczne-pokaz-hackowania-na-zywo/#respond">
+    0 komentarzy
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/hackerzy-vs-dane-medyczne-pokaz-hackowania-na-zywo/" title="Hackerzy vs dane medyczne. POKAZ HACKOWANIA NA ŻYWO">
+    <img alt="Hackerzy vs dane medyczne. POKAZ HACKOWANIA NA ŻYWO" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/Dane-medyczne-SQ-150x150.png" title="Hackerzy vs dane medyczne. POKAZ HACKOWANIA NA ŻYWO"/>
+   </a>
+   <p>
+    Wycieki danych medycznych i podatności w systemach gromadzących takie dane są poważnym zagrożeniem i – co zupełnie zrozumiałe – budzą zawsze duże emocje oraz nasze szczególne obawy. Dane medyczne są wyjątkowo wrażliwe i mogą być wykorzystane do kradzieży tożsamości, wyłudzeń finansowych czy szantażu. Dodatkowo ataki ransomware paraliżują działalność placówek, stwarzając…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/hackerzy-vs-dane-medyczne-pokaz-hackowania-na-zywo/" title="Hackerzy vs dane medyczne. POKAZ HACKOWANIA NA ŻYWO">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52303">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/jak-ulatwic-sobie-zycie-i-madrze-korzystac-z-dobrodziejstw-ai-tym-razem-bierzemy-na-warsztat-ai-w-edukacji-super-hinty-rodzica-i-ucznia/" title="Jak ułatwić sobie życie i mądrze korzystać z dobrodziejstw AI? Tym razem bierzemy na warsztat AI w edukacji (super hinty rodzica i ucznia!)">
+    Jak ułatwić sobie życie i mądrze korzystać z dobrodziejstw AI? Tym razem bierzemy na warsztat AI w edukacji (super hinty rodzica i ucznia!)
+   </a>
+  </h2>
+  <div class="meta">
+   18 września 2025, 17:07 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/jak-ulatwic-sobie-zycie-i-madrze-korzystac-z-dobrodziejstw-ai-tym-razem-bierzemy-na-warsztat-ai-w-edukacji-super-hinty-rodzica-i-ucznia/#comments">
+    1 komentarz
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/jak-ulatwic-sobie-zycie-i-madrze-korzystac-z-dobrodziejstw-ai-tym-razem-bierzemy-na-warsztat-ai-w-edukacji-super-hinty-rodzica-i-ucznia/" title="Jak ułatwić sobie życie i mądrze korzystać z dobrodziejstw AI? Tym razem bierzemy na warsztat AI w edukacji (super hinty rodzica i ucznia!)">
+    <img alt="Jak ułatwić sobie życie i mądrze korzystać z dobrodziejstw AI? Tym razem bierzemy na warsztat AI w edukacji (super hinty rodzica i ucznia!)" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/Zrzut-ekranu-2025-09-18-o-17.03.16-150x150.png" title="Jak ułatwić sobie życie i mądrze korzystać z dobrodziejstw AI? Tym razem bierzemy na warsztat AI w edukacji (super hinty rodzica i ucznia!)"/>
+   </a>
+   <p>
+    Bycie rodzicem nie jest łatwe, a w czasach rewolucji AI i zmian w edukacji niesie za sobą dodatkowe wyzwania 🙂. AI to rzeczywistość, która otwiera drzwi do nowych możliwości, ale niesie też ze sobą poważne ryzyka. Jak wykorzystać atuty AI, by wspierać rozwój dziecka, nie zabijając przy tym naturalnej ciekawości…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/jak-ulatwic-sobie-zycie-i-madrze-korzystac-z-dobrodziejstw-ai-tym-razem-bierzemy-na-warsztat-ai-w-edukacji-super-hinty-rodzica-i-ucznia/" title="Jak ułatwić sobie życie i mądrze korzystać z dobrodziejstw AI? Tym razem bierzemy na warsztat AI w edukacji (super hinty rodzica i ucznia!)">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52213">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/zapraszamy-na-mega-sekurak-hacking-party-unikalna-konferencje-o-cyberbezpieczenstwie/" title="Zapraszamy na MEGA Sekurak Hacking Party: unikalną konferencję o cyberbezpieczeństwie">
+    Zapraszamy na MEGA Sekurak Hacking Party: unikalną konferencję o cyberbezpieczeństwie
+   </a>
+  </h2>
+  <div class="meta">
+   16 września 2025, 17:12 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/zapraszamy-na-mega-sekurak-hacking-party-unikalna-konferencje-o-cyberbezpieczenstwie/#respond">
+    0 komentarzy
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/zapraszamy-na-mega-sekurak-hacking-party-unikalna-konferencje-o-cyberbezpieczenstwie/" title="Zapraszamy na MEGA Sekurak Hacking Party: unikalną konferencję o cyberbezpieczeństwie">
+    <img alt="Zapraszamy na MEGA Sekurak Hacking Party: unikalną konferencję o cyberbezpieczeństwie" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/MSHP-foto-150x150.webp" title="Zapraszamy na MEGA Sekurak Hacking Party: unikalną konferencję o cyberbezpieczeństwie"/>
+   </a>
+   <p>
+    Dlaczego warto być na MSHP? Zapytaliśmy o to w ankiecie uczestników ostatniej edycji. Na pierwszym miejscu wskazali oni: Świetne prezentacje i wysoki poziom merytoryczny A co to konkretnie oznacza? To, że często prosimy zaufanych prelegentów o premierowe tematy na MSHP. To doświadczeni praktycy, charyzmatyczni specjaliści i co ważne – fascynaci…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/zapraszamy-na-mega-sekurak-hacking-party-unikalna-konferencje-o-cyberbezpieczenstwie/" title="Zapraszamy na MEGA Sekurak Hacking Party: unikalną konferencję o cyberbezpieczeństwie">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52188">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/zabbix-grafana-cz-1/" title="Zabbix + Grafana – część 1 – instalacja">
+    Zabbix + Grafana – część 1 – instalacja
+   </a>
+  </h2>
+  <div class="meta">
+   16 września 2025, 12:40 |
+   <a href="https://sekurak.pl/teksty/" rel="category tag">
+    Teksty
+   </a>
+   |
+   <a href="https://sekurak.pl/zabbix-grafana-cz-1/#comments">
+    komentarzy 5
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/zabbix-grafana-cz-1/" title="Zabbix + Grafana – część 1 – instalacja">
+    <img alt="Zabbix + Grafana – część 1 – instalacja" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/image3-150x150.png" title="Zabbix + Grafana – część 1 – instalacja"/>
+   </a>
+   <p>
+    Albert Przybylski przedstawia jak przy pomocy Grafany obejść ograniczenia dashboardów Zabbixa i rozbudować możliwości monitoringu środowiska.
+    <br/>
+    To pierwszy z cyklu artykułów, które opublikujemy na sekuraku. Na początku przedstawione zostaną aspekty bezpiecznej konfiguracji środowiska.
+   </p>
+   <a class="readMore" href="https://sekurak.pl/zabbix-grafana-cz-1/" title="Zabbix + Grafana – część 1 – instalacja">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52172">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/ruszyla-rekrutacja-do-xvi-edycji-programu-twoje-dane-twoja-sprawa/" title="„Twoje dane – Twoja sprawa” – ruszyła rekrutacja do programu organizowanego przez UODO.">
+    „Twoje dane – Twoja sprawa” – ruszyła rekrutacja do programu organizowanego przez UODO.
+   </a>
+  </h2>
+  <div class="meta">
+   15 września 2025, 16:42 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/ruszyla-rekrutacja-do-xvi-edycji-programu-twoje-dane-twoja-sprawa/#respond">
+    0 komentarzy
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/ruszyla-rekrutacja-do-xvi-edycji-programu-twoje-dane-twoja-sprawa/" title="„Twoje dane – Twoja sprawa” – ruszyła rekrutacja do programu organizowanego przez UODO.">
+    <img alt="„Twoje dane – Twoja sprawa” – ruszyła rekrutacja do programu organizowanego przez UODO." class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/XVI-EDYCJA-OGOLNOPOLSKIEGO-PROGRAMU-EDUKACYJNEGO-150x150.jpg" title="„Twoje dane – Twoja sprawa” – ruszyła rekrutacja do programu organizowanego przez UODO."/>
+   </a>
+   <p>
+    Sekurak objął akcję patronatem medialnym. Szczegóły poniżej. Program „Twoje dane – Twoja sprawa” to ogólnopolski projekt edukacyjny UODO, który od 2009 r. buduje świadomość dzieci, młodzieży, nauczycieli i rodziców o ochronie danych osobowych. Zarówno forma, jak i tematyka programu ewoluują, odpowiadając na wyzwania technologiczne oraz społeczne. Program „Twoje dane –…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/ruszyla-rekrutacja-do-xvi-edycji-programu-twoje-dane-twoja-sprawa/" title="„Twoje dane – Twoja sprawa” – ruszyła rekrutacja do programu organizowanego przez UODO.">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52141">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/szyfrowanie-danych-usuwanie-backupow-zacieranie-sladow-analiza-ransomware-dire-wolf/" title="Szyfrowanie danych, usuwanie backupów, zacieranie śladów… analiza ransomware Dire Wolf">
+    Szyfrowanie danych, usuwanie backupów, zacieranie śladów… analiza ransomware Dire Wolf
+   </a>
+  </h2>
+  <div class="meta">
+   12 września 2025, 13:55 |
+   <a href="https://sekurak.pl/teksty/" rel="category tag">
+    Teksty
+   </a>
+   |
+   <a href="https://sekurak.pl/szyfrowanie-danych-usuwanie-backupow-zacieranie-sladow-analiza-ransomware-dire-wolf/#comments">
+    komentarzy 6
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/szyfrowanie-danych-usuwanie-backupow-zacieranie-sladow-analiza-ransomware-dire-wolf/" title="Szyfrowanie danych, usuwanie backupów, zacieranie śladów… analiza ransomware Dire Wolf">
+    <img alt="Szyfrowanie danych, usuwanie backupów, zacieranie śladów… analiza ransomware Dire Wolf" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/direwolf-150x150.png" title="Szyfrowanie danych, usuwanie backupów, zacieranie śladów… analiza ransomware Dire Wolf"/>
+   </a>
+   <p>
+    Dire Wolf jest nową grupą przestępczą, której aktywność zaobserwowano w maju br. Pierwszymi ofiarami cyberprzestępców były firmy z sektora technologicznego, finansowego oraz budownictwa działające we Włoszech, Tajlandii, Australii oraz Indii. Działania cyberprzestępców ukierunkowane są głównie na zysk finansowy. W celu zwiększenia szansy na uzyskanie okupu, wykorzystują technikę double extortion, grożąc…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/szyfrowanie-danych-usuwanie-backupow-zacieranie-sladow-analiza-ransomware-dire-wolf/" title="Szyfrowanie danych, usuwanie backupów, zacieranie śladów… analiza ransomware Dire Wolf">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52093">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/tak-zhakowali-mnie-przepraszam-czyli-najwiekszy-atak-na-lancuch-dostaw-z-phishingiem-w-tle-straty-wyceniono-na-20-05/" title="„Tak, zhakowali mnie, przepraszam” – czyli „największy” atak na łańcuch dostaw (z phishingiem w tle) – straty wyceniono na $20.05">
+    „Tak, zhakowali mnie, przepraszam” – czyli „największy” atak na łańcuch dostaw (z phishingiem w tle) – straty wyceniono na $20.05
+   </a>
+  </h2>
+  <div class="meta">
+   09 września 2025, 17:59 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/tak-zhakowali-mnie-przepraszam-czyli-najwiekszy-atak-na-lancuch-dostaw-z-phishingiem-w-tle-straty-wyceniono-na-20-05/#comments">
+    komentarze 2
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/tak-zhakowali-mnie-przepraszam-czyli-najwiekszy-atak-na-lancuch-dostaw-z-phishingiem-w-tle-straty-wyceniono-na-20-05/" title="„Tak, zhakowali mnie, przepraszam” – czyli „największy” atak na łańcuch dostaw (z phishingiem w tle) – straty wyceniono na $20.05">
+    <img alt="„Tak, zhakowali mnie, przepraszam” – czyli „największy” atak na łańcuch dostaw (z phishingiem w tle) – straty wyceniono na $20.05" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/image-15-150x150.png" title="„Tak, zhakowali mnie, przepraszam” – czyli „największy” atak na łańcuch dostaw (z phishingiem w tle) – straty wyceniono na $20.05"/>
+   </a>
+   <p>
+    Przedstawiamy atak na łańcuch dostaw, który miał wstrząsnąć światem, ale na szczęście stał się tylko bolesnym przypominieniem, jak dużo trzeba jeszcze zrobić w kontekście bezpieczeństwa zależności.
+   </p>
+   <a class="readMore" href="https://sekurak.pl/tak-zhakowali-mnie-przepraszam-czyli-najwiekszy-atak-na-lancuch-dostaw-z-phishingiem-w-tle-straty-wyceniono-na-20-05/" title="„Tak, zhakowali mnie, przepraszam” – czyli „największy” atak na łańcuch dostaw (z phishingiem w tle) – straty wyceniono na $20.05">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52028">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/tajniki-bezpieczenstwa-sieci-od-topowych-polskich-hackerow-pozycja-absolutnie-obowiazkowa-dla-kazdego-admina/" title="Tajniki bezpieczeństwa sieci od topowych polskich hackerów! Pozycja absolutnie obowiązkowa dla każdego admina.">
+    Tajniki bezpieczeństwa sieci od topowych polskich hackerów! Pozycja absolutnie obowiązkowa dla każdego admina.
+   </a>
+  </h2>
+  <div class="meta">
+   02 września 2025, 14:47 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/tajniki-bezpieczenstwa-sieci-od-topowych-polskich-hackerow-pozycja-absolutnie-obowiazkowa-dla-kazdego-admina/#comments">
+    komentarze 3
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/tajniki-bezpieczenstwa-sieci-od-topowych-polskich-hackerow-pozycja-absolutnie-obowiazkowa-dla-kazdego-admina/" title="Tajniki bezpieczeństwa sieci od topowych polskich hackerów! Pozycja absolutnie obowiązkowa dla każdego admina.">
+    <img alt="Tajniki bezpieczeństwa sieci od topowych polskich hackerów! Pozycja absolutnie obowiązkowa dla każdego admina." class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/1756283367280-150x150.jpeg" title="Tajniki bezpieczeństwa sieci od topowych polskich hackerów! Pozycja absolutnie obowiązkowa dla każdego admina."/>
+   </a>
+   <p>
+    W maju tego roku odpaliliśmy kurs, z którego jesteśmy naprawdę dumni. Netsecurity Master od sekuraka zgromadził podczas pierwszej edycji ponad 400 uczestników, którzy ocenili go na doskonałe 9,4/10. 9 października startujemy z drugą edycją szkolenia Netsecurity Master od sekuraka, której nie może przegapić żaden admin zamierzający jeszcze w tym roku…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/tajniki-bezpieczenstwa-sieci-od-topowych-polskich-hackerow-pozycja-absolutnie-obowiazkowa-dla-kazdego-admina/" title="Tajniki bezpieczeństwa sieci od topowych polskich hackerów! Pozycja absolutnie obowiązkowa dla każdego admina.">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <div class="wp-pagenavi" role="navigation">
+  <span class="pages">
+   Strona 1 z 88
+  </span>
+  <span aria-current="page" class="current">
+   1
+  </span>
+  <a class="page larger" href="https://sekurak.pl/page/2/" title="Strona 2">
+   2
+  </a>
+  <a class="page larger" href="https://sekurak.pl/page/3/" title="Strona 3">
+   3
+  </a>
+  <a class="page larger" href="https://sekurak.pl/page/4/" title="Strona 4">
+   4
+  </a>
+  <a class="page larger" href="https://sekurak.pl/page/5/" title="Strona 5">
+   5
+  </a>
+  <span class="extend">
+   ...
+  </span>
+  <a class="larger page" href="https://sekurak.pl/page/10/" title="Strona 10">
+   10
+  </a>
+  <a class="larger page" href="https://sekurak.pl/page/20/" title="Strona 20">
+   20
+  </a>
+  <a class="larger page" href="https://sekurak.pl/page/30/" title="Strona 30">
+   30
+  </a>
+  <span class="extend">
+   ...
+  </span>
+  <a aria-label="Następna strona" class="nextpostslink" href="https://sekurak.pl/page/2/" rel="next">
+   »
+  </a>
+  <a aria-label="Last Page" class="last" href="https://sekurak.pl/page/88/">
+   Ostatnia »
+  </a>
+ </div>
+</div>
+
+2025-10-31 04:15:08,273 - DEBUG - Starting new HTTPS connection (1): sekurak.pl:443
+2025-10-31 04:15:08,541 - DEBUG - https://sekurak.pl:443 "GET / HTTP/1.1" 200 17629
+2025-10-31 04:15:08,606 - INFO - Anchor element found. Proceeding with link extraction.
+2025-10-31 04:15:08,620 - INFO - Anchor element content: <div id="content" role="main">
+ <div class="one" id="ppc-box">
+  <div class="ppc-box">
+   <div class="ppc">
+    <h3>
+     W biegu
+    </h3>
+    <ul>
+     <li>
+      <a class="ppc-post-title" href="https://sekurak.pl/wazna-informacja-dla-uzytkownikow-kluczy-u2f-na-x-twitterze-poradnik/" title="Article Ważna informacja dla użytkowników kluczy U2F na X (Twitterze) [poradnik] published at 30 października, 2025 5:06 am">
+       Ważna informacja dla użytkowników kluczy U2F na X (Twitterze) [poradnik]
+      </a>
+     </li>
+     <li>
+      <a class="ppc-post-title" href="https://sekurak.pl/atak-na-zaklad-produkujacy-komponenty-do-amerykanskiej-broni-jadrowej/" title="Article Atak na zakład produkujący komponenty do amerykańskiej broni jądrowej published at 30 października, 2025 5:01 am">
+       Atak na zakład produkujący komponenty do amerykańskiej broni jądrowej
+      </a>
+     </li>
+     <li>
+      <a class="ppc-post-title" href="https://sekurak.pl/operacja-simcartel-7-osob-zatrzymanych-przejete-40-tys-kart-sim-z-80-krajow/" title="Article Operacja SIMCARTEL - 7 osób zatrzymanych, przejęte 40 tys. kart SIM z 80 krajów published at 30 października, 2025 4:57 am">
+       Operacja SIMCARTEL - 7 osób zatrzymanych, przejęte 40 tys. kart SIM z 80 krajów
+      </a>
+     </li>
+     <li>
+      <a class="ppc-post-title" href="https://sekurak.pl/bledy-w-implementacji-krzywej-fourq-od-cloudflare-pozwalaly-na-odzyskanie-klucza-prywatnego-cve-2025-8556/" title="Article Błędy w implementacji krzywej FourQ od Cloudflare pozwalały na odzyskanie klucza prywatnego [CVE-2025-8556] published at 30 października, 2025 4:54 am">
+       Błędy w implementacji krzywej FourQ od Cloudflare pozwalały na odzyskanie klucza prywatnego [CVE-2025-8556]
+      </a>
+     </li>
+     <li>
+      <a class="ppc-post-title" href="https://sekurak.pl/za-nami-pwn2own-2025-ujawniono-az-73-ataki-zero-day-laczna-pula-nagrod-przekroczyla-milion-dolarow/" title="Article Za nami Pwn2Own 2025. Ujawniono aż 73 ataki zero-day. Łączna pula nagród przekroczyła milion dolarów.  published at 28 października, 2025 10:19 pm">
+       Za nami Pwn2Own 2025. Ujawniono aż 73 ataki zero-day. Łączna pula nagród przekroczyła milion dolarów.
+      </a>
+     </li>
+    </ul>
+   </div>
+  </div>
+ </div>
+ <div class="fb-like" data-action="like" data-href="http://facebook.com/sekurak" data-layout="standard" data-share="false" data-show-faces="false">
+ </div>
+ <br/>
+ <br/>
+ <article class="post" id="post-52876">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/platforma-e-commerce-sky-shop-pl-informuje-swoich-klientow-o-ataku/" title="Platforma e-commerce Sky-Shop informuje swoich klientów o ataku.">
+    Platforma e-commerce Sky-Shop informuje swoich klientów o ataku.
+   </a>
+  </h2>
+  <div class="meta">
+   30 października 2025, 11:10 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/platforma-e-commerce-sky-shop-pl-informuje-swoich-klientow-o-ataku/#comments">
+    komentarze 3
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/platforma-e-commerce-sky-shop-pl-informuje-swoich-klientow-o-ataku/" title="Platforma e-commerce Sky-Shop informuje swoich klientów o ataku.">
+    <img alt="Platforma e-commerce Sky-Shop informuje swoich klientów o ataku." class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/10/skyshop-150x150.jpg" title="Platforma e-commerce Sky-Shop informuje swoich klientów o ataku."/>
+   </a>
+   <p>
+    To nie będzie łatwy poranek dla właścicieli sklepów prowadzonych na platformie e-commerce sky-shop.pl. Od rana, platforma prowadzi akcję informacyjną, dotyczącą ataku, który został wykryty 28.10.2025 r.  Sky-Shop rozesłał wiadomość e-mail do swoich klientów, w której obszernie informuje o zaistniałym incydencie. Według przeprowadzonej analizy powłamaniowej, do ataku miało dojść 19.10.2025, kiedy…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/platforma-e-commerce-sky-shop-pl-informuje-swoich-klientow-o-ataku/" title="Platforma e-commerce Sky-Shop informuje swoich klientów o ataku.">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52671">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/przelaczniki-bez-tajemnic-szkolenie-ktore-moze-zaskoczyc-nawet-doswiadczonych-adminow/" title="Przełączniki bez tajemnic – szkolenie, które może zaskoczyć nawet doświadczonych adminów">
+    Przełączniki bez tajemnic – szkolenie, które może zaskoczyć nawet doświadczonych adminów
+   </a>
+  </h2>
+  <div class="meta">
+   16 października 2025, 10:04 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/przelaczniki-bez-tajemnic-szkolenie-ktore-moze-zaskoczyc-nawet-doswiadczonych-adminow/#comments">
+    komentarze 2
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/przelaczniki-bez-tajemnic-szkolenie-ktore-moze-zaskoczyc-nawet-doswiadczonych-adminow/" title="Przełączniki bez tajemnic – szkolenie, które może zaskoczyć nawet doświadczonych adminów">
+    <img alt="Przełączniki bez tajemnic – szkolenie, które może zaskoczyć nawet doświadczonych adminów" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/10/sieciPW-1-150x150.jpg" title="Przełączniki bez tajemnic – szkolenie, które może zaskoczyć nawet doświadczonych adminów"/>
+   </a>
+   <p>
+    Sieć to żywy organizm. Każdy przełącznik to węzeł, przez który płyną kluczowe dane. Jedno źle skonfigurowane ustawienie warstwy drugiej i atakujący może znaleźć się w środku. Natywny VLAN 1 często pozostaje niezmieniony od pierwszego wdrożenia. Mechanizm Port Security działa domyślnie, ale czy wiesz, jak zabezpieczyć go przed sprytnymi atakami klasy…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/przelaczniki-bez-tajemnic-szkolenie-ktore-moze-zaskoczyc-nawet-doswiadczonych-adminow/" title="Przełączniki bez tajemnic – szkolenie, które może zaskoczyć nawet doświadczonych adminów">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52575">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/zabbix-grafana-czesc-2-przedstawianie-danych/" title="Zabbix + Grafana – część 2 – Przedstawianie danych">
+    Zabbix + Grafana – część 2 – Przedstawianie danych
+   </a>
+  </h2>
+  <div class="meta">
+   11 października 2025, 10:16 |
+   <a href="https://sekurak.pl/teksty/" rel="category tag">
+    Teksty
+   </a>
+   |
+   <a href="https://sekurak.pl/zabbix-grafana-czesc-2-przedstawianie-danych/#comments">
+    1 komentarz
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/zabbix-grafana-czesc-2-przedstawianie-danych/" title="Zabbix + Grafana – część 2 – Przedstawianie danych">
+    <img alt="Zabbix + Grafana – część 2 – Przedstawianie danych" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/10/image12-150x150.png" title="Zabbix + Grafana – część 2 – Przedstawianie danych"/>
+   </a>
+   <p>
+    Druga część naszej serii o integracji Zabbixa oraz Grafany. Tym razem Albert wprowadzi Czytelnika w świat przygotowania i prezentacji różnego typu danych przy pomocy dashboardów Grafany.
+   </p>
+   <a class="readMore" href="https://sekurak.pl/zabbix-grafana-czesc-2-przedstawianie-danych/" title="Zabbix + Grafana – część 2 – Przedstawianie danych">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52607">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/ostatnia-prosta-juz-za-10-dni-mega-sekurak-hacking-party-bilety-online-specjalny-bilet-dla-kumpla-i-pelna-agenda-wydarzenia/" title="Ostatnia prosta! Już za 10 dni Mega Sekurak Hacking Party. Bilety online, specjalny „bilet dla kumpla” i pełna agenda wydarzenia">
+    Ostatnia prosta! Już za 10 dni Mega Sekurak Hacking Party. Bilety online, specjalny „bilet dla kumpla” i pełna agenda wydarzenia
+   </a>
+  </h2>
+  <div class="meta">
+   10 października 2025, 11:06 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/ostatnia-prosta-juz-za-10-dni-mega-sekurak-hacking-party-bilety-online-specjalny-bilet-dla-kumpla-i-pelna-agenda-wydarzenia/#respond">
+    0 komentarzy
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/ostatnia-prosta-juz-za-10-dni-mega-sekurak-hacking-party-bilety-online-specjalny-bilet-dla-kumpla-i-pelna-agenda-wydarzenia/" title="Ostatnia prosta! Już za 10 dni Mega Sekurak Hacking Party. Bilety online, specjalny „bilet dla kumpla” i pełna agenda wydarzenia">
+    <img alt="Ostatnia prosta! Już za 10 dni Mega Sekurak Hacking Party. Bilety online, specjalny „bilet dla kumpla” i pełna agenda wydarzenia" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/10/unnamed-150x150.webp" title="Ostatnia prosta! Już za 10 dni Mega Sekurak Hacking Party. Bilety online, specjalny „bilet dla kumpla” i pełna agenda wydarzenia"/>
+   </a>
+   <p>
+    20 października zbliża się coraz większymi krokami. Jesteśmy naprawdę podekscytowani tą edycją Mega Sekurak Hacking Party. Włożyliśmy w nią całe serducho i przygotowaliśmy program inny niż wszystkie. Przekonajcie się sami 🙂 Zanim ruszymy, zapraszamy Cię jeszcze na otwarty event „Mega Sekurak Hacking Party 2025 – ostatnia prosta”. Jesteś zapisany? Przyjdź,…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/ostatnia-prosta-juz-za-10-dni-mega-sekurak-hacking-party-bilety-online-specjalny-bilet-dla-kumpla-i-pelna-agenda-wydarzenia/" title="Ostatnia prosta! Już za 10 dni Mega Sekurak Hacking Party. Bilety online, specjalny „bilet dla kumpla” i pełna agenda wydarzenia">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52525">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/hackowanie-wodociagow-na-zywo/" title="Hackowanie wodociągów na żywo!">
+    Hackowanie wodociągów na żywo!
+   </a>
+  </h2>
+  <div class="meta">
+   02 października 2025, 18:04 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/hackowanie-wodociagow-na-zywo/#comments">
+    komentarzy 5
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/hackowanie-wodociagow-na-zywo/" title="Hackowanie wodociągów na żywo!">
+    <img alt="Hackowanie wodociągów na żywo!" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/10/Zrzut-ekranu-2025-10-2-o-18.02.42-150x150.png" title="Hackowanie wodociągów na żywo!"/>
+   </a>
+   <p>
+    Wyobraź sobie cyberatak, który manipuluje procesem uzdatniania wody. Podczas naszego szkolenia Hackowanie wodociągów na żywo pokażemy Ci symulację takiego ataku na sieć wodociągową. Dowiesz się, gdzie mogą czaić się luki w zabezpieczeniach i – co kluczowe – jak je załatać dzięki skutecznym procedurom i kontrolom.  Nie musisz być ekspertem od…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/hackowanie-wodociagow-na-zywo/" title="Hackowanie wodociągów na żywo!">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52506">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/podszycie-pod-pakiet-npm-i-backdoor-w-serwerze-mcp/" title="Podszycie pod pakiet npm i backdoor w serwerze MCP">
+    Podszycie pod pakiet npm i backdoor w serwerze MCP
+   </a>
+  </h2>
+  <div class="meta">
+   01 października 2025, 08:59 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/podszycie-pod-pakiet-npm-i-backdoor-w-serwerze-mcp/#respond">
+    0 komentarzy
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/podszycie-pod-pakiet-npm-i-backdoor-w-serwerze-mcp/" title="Podszycie pod pakiet npm i backdoor w serwerze MCP">
+    <img alt="Podszycie pod pakiet npm i backdoor w serwerze MCP" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2023/01/hacker-ziom-150x150.jpeg" title="Podszycie pod pakiet npm i backdoor w serwerze MCP"/>
+   </a>
+   <p>
+    Systemy agentowe, duże modele językowe oraz już-nie-taka-nowość (chociaż wciąż zyskujące popularność) serwery MCP gościły na łamach sekurak.pl wielokrotnie. Pod jednym z artykułów, gdzie opisywaliśmy możliwe wektory ataków na serwery MCP, można było spotkać głosy sceptycznie podchodzące do tematu niebezpiecznych serwerów. Dlatego tym razem chcielibyśmy przedstawić atak, którego wystąpienie było tylko…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/podszycie-pod-pakiet-npm-i-backdoor-w-serwerze-mcp/" title="Podszycie pod pakiet npm i backdoor w serwerze MCP">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52496">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/krytyczne-podatnosci-rce-w-pad-cms-zgloszenie-przez-ekspertow-securitum-i-analiza-cert-polska-konieczne-natychmiastowe-dzialania/" title="Krytyczne podatności RCE w PAD CMS – zgłoszenie przez ekspertów Securitum i analiza CERT Polska – konieczne natychmiastowe działania">
+    Krytyczne podatności RCE w PAD CMS – zgłoszenie przez ekspertów Securitum i analiza CERT Polska – konieczne natychmiastowe działania
+   </a>
+  </h2>
+  <div class="meta">
+   30 września 2025, 22:33 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/krytyczne-podatnosci-rce-w-pad-cms-zgloszenie-przez-ekspertow-securitum-i-analiza-cert-polska-konieczne-natychmiastowe-dzialania/#comments">
+    komentarzy 12
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/krytyczne-podatnosci-rce-w-pad-cms-zgloszenie-przez-ekspertow-securitum-i-analiza-cert-polska-konieczne-natychmiastowe-dzialania/" title="Krytyczne podatności RCE w PAD CMS – zgłoszenie przez ekspertów Securitum i analiza CERT Polska – konieczne natychmiastowe działania">
+    <img alt="Krytyczne podatności RCE w PAD CMS – zgłoszenie przez ekspertów Securitum i analiza CERT Polska – konieczne natychmiastowe działania" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2023/08/hackerzzz-150x150.jpeg" title="Krytyczne podatności RCE w PAD CMS – zgłoszenie przez ekspertów Securitum i analiza CERT Polska – konieczne natychmiastowe działania"/>
+   </a>
+   <p>
+    Naszych dwóch audytorów bezpieczeństwa z Securitum – Robert Kruczek oraz Kamil Szczurowski w ramach działań typu happy hunting (spontaniczne testy systemów w celu poprawy jakości polskiego Internetu) wykryło krytyczne podatności typu unauthenticated Remote Code Execution (RCE) w systemie PAD CMS (na którym uruchamiane są aplikacje internetowe oraz biuletyny informacji publicznej)….
+   </p>
+   <a class="readMore" href="https://sekurak.pl/krytyczne-podatnosci-rce-w-pad-cms-zgloszenie-przez-ekspertow-securitum-i-analiza-cert-polska-konieczne-natychmiastowe-dzialania/" title="Krytyczne podatności RCE w PAD CMS – zgłoszenie przez ekspertów Securitum i analiza CERT Polska – konieczne natychmiastowe działania">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52470">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/hackerzy-vs-dane-medyczne-pokaz-hackowania-na-zywo/" title="Hackerzy vs dane medyczne. POKAZ HACKOWANIA NA ŻYWO">
+    Hackerzy vs dane medyczne. POKAZ HACKOWANIA NA ŻYWO
+   </a>
+  </h2>
+  <div class="meta">
+   29 września 2025, 11:38 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/hackerzy-vs-dane-medyczne-pokaz-hackowania-na-zywo/#respond">
+    0 komentarzy
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/hackerzy-vs-dane-medyczne-pokaz-hackowania-na-zywo/" title="Hackerzy vs dane medyczne. POKAZ HACKOWANIA NA ŻYWO">
+    <img alt="Hackerzy vs dane medyczne. POKAZ HACKOWANIA NA ŻYWO" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/Dane-medyczne-SQ-150x150.png" title="Hackerzy vs dane medyczne. POKAZ HACKOWANIA NA ŻYWO"/>
+   </a>
+   <p>
+    Wycieki danych medycznych i podatności w systemach gromadzących takie dane są poważnym zagrożeniem i – co zupełnie zrozumiałe – budzą zawsze duże emocje oraz nasze szczególne obawy. Dane medyczne są wyjątkowo wrażliwe i mogą być wykorzystane do kradzieży tożsamości, wyłudzeń finansowych czy szantażu. Dodatkowo ataki ransomware paraliżują działalność placówek, stwarzając…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/hackerzy-vs-dane-medyczne-pokaz-hackowania-na-zywo/" title="Hackerzy vs dane medyczne. POKAZ HACKOWANIA NA ŻYWO">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52303">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/jak-ulatwic-sobie-zycie-i-madrze-korzystac-z-dobrodziejstw-ai-tym-razem-bierzemy-na-warsztat-ai-w-edukacji-super-hinty-rodzica-i-ucznia/" title="Jak ułatwić sobie życie i mądrze korzystać z dobrodziejstw AI? Tym razem bierzemy na warsztat AI w edukacji (super hinty rodzica i ucznia!)">
+    Jak ułatwić sobie życie i mądrze korzystać z dobrodziejstw AI? Tym razem bierzemy na warsztat AI w edukacji (super hinty rodzica i ucznia!)
+   </a>
+  </h2>
+  <div class="meta">
+   18 września 2025, 17:07 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/jak-ulatwic-sobie-zycie-i-madrze-korzystac-z-dobrodziejstw-ai-tym-razem-bierzemy-na-warsztat-ai-w-edukacji-super-hinty-rodzica-i-ucznia/#comments">
+    1 komentarz
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/jak-ulatwic-sobie-zycie-i-madrze-korzystac-z-dobrodziejstw-ai-tym-razem-bierzemy-na-warsztat-ai-w-edukacji-super-hinty-rodzica-i-ucznia/" title="Jak ułatwić sobie życie i mądrze korzystać z dobrodziejstw AI? Tym razem bierzemy na warsztat AI w edukacji (super hinty rodzica i ucznia!)">
+    <img alt="Jak ułatwić sobie życie i mądrze korzystać z dobrodziejstw AI? Tym razem bierzemy na warsztat AI w edukacji (super hinty rodzica i ucznia!)" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/Zrzut-ekranu-2025-09-18-o-17.03.16-150x150.png" title="Jak ułatwić sobie życie i mądrze korzystać z dobrodziejstw AI? Tym razem bierzemy na warsztat AI w edukacji (super hinty rodzica i ucznia!)"/>
+   </a>
+   <p>
+    Bycie rodzicem nie jest łatwe, a w czasach rewolucji AI i zmian w edukacji niesie za sobą dodatkowe wyzwania 🙂. AI to rzeczywistość, która otwiera drzwi do nowych możliwości, ale niesie też ze sobą poważne ryzyka. Jak wykorzystać atuty AI, by wspierać rozwój dziecka, nie zabijając przy tym naturalnej ciekawości…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/jak-ulatwic-sobie-zycie-i-madrze-korzystac-z-dobrodziejstw-ai-tym-razem-bierzemy-na-warsztat-ai-w-edukacji-super-hinty-rodzica-i-ucznia/" title="Jak ułatwić sobie życie i mądrze korzystać z dobrodziejstw AI? Tym razem bierzemy na warsztat AI w edukacji (super hinty rodzica i ucznia!)">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52213">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/zapraszamy-na-mega-sekurak-hacking-party-unikalna-konferencje-o-cyberbezpieczenstwie/" title="Zapraszamy na MEGA Sekurak Hacking Party: unikalną konferencję o cyberbezpieczeństwie">
+    Zapraszamy na MEGA Sekurak Hacking Party: unikalną konferencję o cyberbezpieczeństwie
+   </a>
+  </h2>
+  <div class="meta">
+   16 września 2025, 17:12 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/zapraszamy-na-mega-sekurak-hacking-party-unikalna-konferencje-o-cyberbezpieczenstwie/#respond">
+    0 komentarzy
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/zapraszamy-na-mega-sekurak-hacking-party-unikalna-konferencje-o-cyberbezpieczenstwie/" title="Zapraszamy na MEGA Sekurak Hacking Party: unikalną konferencję o cyberbezpieczeństwie">
+    <img alt="Zapraszamy na MEGA Sekurak Hacking Party: unikalną konferencję o cyberbezpieczeństwie" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/MSHP-foto-150x150.webp" title="Zapraszamy na MEGA Sekurak Hacking Party: unikalną konferencję o cyberbezpieczeństwie"/>
+   </a>
+   <p>
+    Dlaczego warto być na MSHP? Zapytaliśmy o to w ankiecie uczestników ostatniej edycji. Na pierwszym miejscu wskazali oni: Świetne prezentacje i wysoki poziom merytoryczny A co to konkretnie oznacza? To, że często prosimy zaufanych prelegentów o premierowe tematy na MSHP. To doświadczeni praktycy, charyzmatyczni specjaliści i co ważne – fascynaci…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/zapraszamy-na-mega-sekurak-hacking-party-unikalna-konferencje-o-cyberbezpieczenstwie/" title="Zapraszamy na MEGA Sekurak Hacking Party: unikalną konferencję o cyberbezpieczeństwie">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52188">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/zabbix-grafana-cz-1/" title="Zabbix + Grafana – część 1 – instalacja">
+    Zabbix + Grafana – część 1 – instalacja
+   </a>
+  </h2>
+  <div class="meta">
+   16 września 2025, 12:40 |
+   <a href="https://sekurak.pl/teksty/" rel="category tag">
+    Teksty
+   </a>
+   |
+   <a href="https://sekurak.pl/zabbix-grafana-cz-1/#comments">
+    komentarzy 5
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/zabbix-grafana-cz-1/" title="Zabbix + Grafana – część 1 – instalacja">
+    <img alt="Zabbix + Grafana – część 1 – instalacja" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/image3-150x150.png" title="Zabbix + Grafana – część 1 – instalacja"/>
+   </a>
+   <p>
+    Albert Przybylski przedstawia jak przy pomocy Grafany obejść ograniczenia dashboardów Zabbixa i rozbudować możliwości monitoringu środowiska.
+    <br/>
+    To pierwszy z cyklu artykułów, które opublikujemy na sekuraku. Na początku przedstawione zostaną aspekty bezpiecznej konfiguracji środowiska.
+   </p>
+   <a class="readMore" href="https://sekurak.pl/zabbix-grafana-cz-1/" title="Zabbix + Grafana – część 1 – instalacja">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52172">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/ruszyla-rekrutacja-do-xvi-edycji-programu-twoje-dane-twoja-sprawa/" title="„Twoje dane – Twoja sprawa” – ruszyła rekrutacja do programu organizowanego przez UODO.">
+    „Twoje dane – Twoja sprawa” – ruszyła rekrutacja do programu organizowanego przez UODO.
+   </a>
+  </h2>
+  <div class="meta">
+   15 września 2025, 16:42 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/ruszyla-rekrutacja-do-xvi-edycji-programu-twoje-dane-twoja-sprawa/#respond">
+    0 komentarzy
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/ruszyla-rekrutacja-do-xvi-edycji-programu-twoje-dane-twoja-sprawa/" title="„Twoje dane – Twoja sprawa” – ruszyła rekrutacja do programu organizowanego przez UODO.">
+    <img alt="„Twoje dane – Twoja sprawa” – ruszyła rekrutacja do programu organizowanego przez UODO." class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/XVI-EDYCJA-OGOLNOPOLSKIEGO-PROGRAMU-EDUKACYJNEGO-150x150.jpg" title="„Twoje dane – Twoja sprawa” – ruszyła rekrutacja do programu organizowanego przez UODO."/>
+   </a>
+   <p>
+    Sekurak objął akcję patronatem medialnym. Szczegóły poniżej. Program „Twoje dane – Twoja sprawa” to ogólnopolski projekt edukacyjny UODO, który od 2009 r. buduje świadomość dzieci, młodzieży, nauczycieli i rodziców o ochronie danych osobowych. Zarówno forma, jak i tematyka programu ewoluują, odpowiadając na wyzwania technologiczne oraz społeczne. Program „Twoje dane –…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/ruszyla-rekrutacja-do-xvi-edycji-programu-twoje-dane-twoja-sprawa/" title="„Twoje dane – Twoja sprawa” – ruszyła rekrutacja do programu organizowanego przez UODO.">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52141">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/szyfrowanie-danych-usuwanie-backupow-zacieranie-sladow-analiza-ransomware-dire-wolf/" title="Szyfrowanie danych, usuwanie backupów, zacieranie śladów… analiza ransomware Dire Wolf">
+    Szyfrowanie danych, usuwanie backupów, zacieranie śladów… analiza ransomware Dire Wolf
+   </a>
+  </h2>
+  <div class="meta">
+   12 września 2025, 13:55 |
+   <a href="https://sekurak.pl/teksty/" rel="category tag">
+    Teksty
+   </a>
+   |
+   <a href="https://sekurak.pl/szyfrowanie-danych-usuwanie-backupow-zacieranie-sladow-analiza-ransomware-dire-wolf/#comments">
+    komentarzy 6
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/szyfrowanie-danych-usuwanie-backupow-zacieranie-sladow-analiza-ransomware-dire-wolf/" title="Szyfrowanie danych, usuwanie backupów, zacieranie śladów… analiza ransomware Dire Wolf">
+    <img alt="Szyfrowanie danych, usuwanie backupów, zacieranie śladów… analiza ransomware Dire Wolf" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/direwolf-150x150.png" title="Szyfrowanie danych, usuwanie backupów, zacieranie śladów… analiza ransomware Dire Wolf"/>
+   </a>
+   <p>
+    Dire Wolf jest nową grupą przestępczą, której aktywność zaobserwowano w maju br. Pierwszymi ofiarami cyberprzestępców były firmy z sektora technologicznego, finansowego oraz budownictwa działające we Włoszech, Tajlandii, Australii oraz Indii. Działania cyberprzestępców ukierunkowane są głównie na zysk finansowy. W celu zwiększenia szansy na uzyskanie okupu, wykorzystują technikę double extortion, grożąc…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/szyfrowanie-danych-usuwanie-backupow-zacieranie-sladow-analiza-ransomware-dire-wolf/" title="Szyfrowanie danych, usuwanie backupów, zacieranie śladów… analiza ransomware Dire Wolf">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52093">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/tak-zhakowali-mnie-przepraszam-czyli-najwiekszy-atak-na-lancuch-dostaw-z-phishingiem-w-tle-straty-wyceniono-na-20-05/" title="„Tak, zhakowali mnie, przepraszam” – czyli „największy” atak na łańcuch dostaw (z phishingiem w tle) – straty wyceniono na $20.05">
+    „Tak, zhakowali mnie, przepraszam” – czyli „największy” atak na łańcuch dostaw (z phishingiem w tle) – straty wyceniono na $20.05
+   </a>
+  </h2>
+  <div class="meta">
+   09 września 2025, 17:59 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/tak-zhakowali-mnie-przepraszam-czyli-najwiekszy-atak-na-lancuch-dostaw-z-phishingiem-w-tle-straty-wyceniono-na-20-05/#comments">
+    komentarze 2
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/tak-zhakowali-mnie-przepraszam-czyli-najwiekszy-atak-na-lancuch-dostaw-z-phishingiem-w-tle-straty-wyceniono-na-20-05/" title="„Tak, zhakowali mnie, przepraszam” – czyli „największy” atak na łańcuch dostaw (z phishingiem w tle) – straty wyceniono na $20.05">
+    <img alt="„Tak, zhakowali mnie, przepraszam” – czyli „największy” atak na łańcuch dostaw (z phishingiem w tle) – straty wyceniono na $20.05" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/image-15-150x150.png" title="„Tak, zhakowali mnie, przepraszam” – czyli „największy” atak na łańcuch dostaw (z phishingiem w tle) – straty wyceniono na $20.05"/>
+   </a>
+   <p>
+    Przedstawiamy atak na łańcuch dostaw, który miał wstrząsnąć światem, ale na szczęście stał się tylko bolesnym przypominieniem, jak dużo trzeba jeszcze zrobić w kontekście bezpieczeństwa zależności.
+   </p>
+   <a class="readMore" href="https://sekurak.pl/tak-zhakowali-mnie-przepraszam-czyli-najwiekszy-atak-na-lancuch-dostaw-z-phishingiem-w-tle-straty-wyceniono-na-20-05/" title="„Tak, zhakowali mnie, przepraszam” – czyli „największy” atak na łańcuch dostaw (z phishingiem w tle) – straty wyceniono na $20.05">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52028">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/tajniki-bezpieczenstwa-sieci-od-topowych-polskich-hackerow-pozycja-absolutnie-obowiazkowa-dla-kazdego-admina/" title="Tajniki bezpieczeństwa sieci od topowych polskich hackerów! Pozycja absolutnie obowiązkowa dla każdego admina.">
+    Tajniki bezpieczeństwa sieci od topowych polskich hackerów! Pozycja absolutnie obowiązkowa dla każdego admina.
+   </a>
+  </h2>
+  <div class="meta">
+   02 września 2025, 14:47 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/tajniki-bezpieczenstwa-sieci-od-topowych-polskich-hackerow-pozycja-absolutnie-obowiazkowa-dla-kazdego-admina/#comments">
+    komentarze 3
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/tajniki-bezpieczenstwa-sieci-od-topowych-polskich-hackerow-pozycja-absolutnie-obowiazkowa-dla-kazdego-admina/" title="Tajniki bezpieczeństwa sieci od topowych polskich hackerów! Pozycja absolutnie obowiązkowa dla każdego admina.">
+    <img alt="Tajniki bezpieczeństwa sieci od topowych polskich hackerów! Pozycja absolutnie obowiązkowa dla każdego admina." class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/1756283367280-150x150.jpeg" title="Tajniki bezpieczeństwa sieci od topowych polskich hackerów! Pozycja absolutnie obowiązkowa dla każdego admina."/>
+   </a>
+   <p>
+    W maju tego roku odpaliliśmy kurs, z którego jesteśmy naprawdę dumni. Netsecurity Master od sekuraka zgromadził podczas pierwszej edycji ponad 400 uczestników, którzy ocenili go na doskonałe 9,4/10. 9 października startujemy z drugą edycją szkolenia Netsecurity Master od sekuraka, której nie może przegapić żaden admin zamierzający jeszcze w tym roku…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/tajniki-bezpieczenstwa-sieci-od-topowych-polskich-hackerow-pozycja-absolutnie-obowiazkowa-dla-kazdego-admina/" title="Tajniki bezpieczeństwa sieci od topowych polskich hackerów! Pozycja absolutnie obowiązkowa dla każdego admina.">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <div class="wp-pagenavi" role="navigation">
+  <span class="pages">
+   Strona 1 z 88
+  </span>
+  <span aria-current="page" class="current">
+   1
+  </span>
+  <a class="page larger" href="https://sekurak.pl/page/2/" title="Strona 2">
+   2
+  </a>
+  <a class="page larger" href="https://sekurak.pl/page/3/" title="Strona 3">
+   3
+  </a>
+  <a class="page larger" href="https://sekurak.pl/page/4/" title="Strona 4">
+   4
+  </a>
+  <a class="page larger" href="https://sekurak.pl/page/5/" title="Strona 5">
+   5
+  </a>
+  <span class="extend">
+   ...
+  </span>
+  <a class="larger page" href="https://sekurak.pl/page/10/" title="Strona 10">
+   10
+  </a>
+  <a class="larger page" href="https://sekurak.pl/page/20/" title="Strona 20">
+   20
+  </a>
+  <a class="larger page" href="https://sekurak.pl/page/30/" title="Strona 30">
+   30
+  </a>
+  <span class="extend">
+   ...
+  </span>
+  <a aria-label="Następna strona" class="nextpostslink" href="https://sekurak.pl/page/2/" rel="next">
+   »
+  </a>
+  <a aria-label="Last Page" class="last" href="https://sekurak.pl/page/88/">
+   Ostatnia »
+  </a>
+ </div>
+</div>
+
+2025-10-31 04:15:39,545 - DEBUG - Starting new HTTPS connection (1): sekurak.pl:443
+2025-10-31 04:15:39,781 - DEBUG - https://sekurak.pl:443 "GET / HTTP/1.1" 200 17629
+2025-10-31 04:15:39,845 - INFO - Anchor element found. Proceeding with link extraction.
+2025-10-31 04:15:39,858 - INFO - Anchor element content: <div id="content" role="main">
+ <div class="one" id="ppc-box">
+  <div class="ppc-box">
+   <div class="ppc">
+    <h3>
+     W biegu
+    </h3>
+    <ul>
+     <li>
+      <a class="ppc-post-title" href="https://sekurak.pl/wazna-informacja-dla-uzytkownikow-kluczy-u2f-na-x-twitterze-poradnik/" title="Article Ważna informacja dla użytkowników kluczy U2F na X (Twitterze) [poradnik] published at 30 października, 2025 5:06 am">
+       Ważna informacja dla użytkowników kluczy U2F na X (Twitterze) [poradnik]
+      </a>
+     </li>
+     <li>
+      <a class="ppc-post-title" href="https://sekurak.pl/atak-na-zaklad-produkujacy-komponenty-do-amerykanskiej-broni-jadrowej/" title="Article Atak na zakład produkujący komponenty do amerykańskiej broni jądrowej published at 30 października, 2025 5:01 am">
+       Atak na zakład produkujący komponenty do amerykańskiej broni jądrowej
+      </a>
+     </li>
+     <li>
+      <a class="ppc-post-title" href="https://sekurak.pl/operacja-simcartel-7-osob-zatrzymanych-przejete-40-tys-kart-sim-z-80-krajow/" title="Article Operacja SIMCARTEL - 7 osób zatrzymanych, przejęte 40 tys. kart SIM z 80 krajów published at 30 października, 2025 4:57 am">
+       Operacja SIMCARTEL - 7 osób zatrzymanych, przejęte 40 tys. kart SIM z 80 krajów
+      </a>
+     </li>
+     <li>
+      <a class="ppc-post-title" href="https://sekurak.pl/bledy-w-implementacji-krzywej-fourq-od-cloudflare-pozwalaly-na-odzyskanie-klucza-prywatnego-cve-2025-8556/" title="Article Błędy w implementacji krzywej FourQ od Cloudflare pozwalały na odzyskanie klucza prywatnego [CVE-2025-8556] published at 30 października, 2025 4:54 am">
+       Błędy w implementacji krzywej FourQ od Cloudflare pozwalały na odzyskanie klucza prywatnego [CVE-2025-8556]
+      </a>
+     </li>
+     <li>
+      <a class="ppc-post-title" href="https://sekurak.pl/za-nami-pwn2own-2025-ujawniono-az-73-ataki-zero-day-laczna-pula-nagrod-przekroczyla-milion-dolarow/" title="Article Za nami Pwn2Own 2025. Ujawniono aż 73 ataki zero-day. Łączna pula nagród przekroczyła milion dolarów.  published at 28 października, 2025 10:19 pm">
+       Za nami Pwn2Own 2025. Ujawniono aż 73 ataki zero-day. Łączna pula nagród przekroczyła milion dolarów.
+      </a>
+     </li>
+    </ul>
+   </div>
+  </div>
+ </div>
+ <div class="fb-like" data-action="like" data-href="http://facebook.com/sekurak" data-layout="standard" data-share="false" data-show-faces="false">
+ </div>
+ <br/>
+ <br/>
+ <article class="post" id="post-52876">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/platforma-e-commerce-sky-shop-pl-informuje-swoich-klientow-o-ataku/" title="Platforma e-commerce Sky-Shop informuje swoich klientów o ataku.">
+    Platforma e-commerce Sky-Shop informuje swoich klientów o ataku.
+   </a>
+  </h2>
+  <div class="meta">
+   30 października 2025, 11:10 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/platforma-e-commerce-sky-shop-pl-informuje-swoich-klientow-o-ataku/#comments">
+    komentarze 3
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/platforma-e-commerce-sky-shop-pl-informuje-swoich-klientow-o-ataku/" title="Platforma e-commerce Sky-Shop informuje swoich klientów o ataku.">
+    <img alt="Platforma e-commerce Sky-Shop informuje swoich klientów o ataku." class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/10/skyshop-150x150.jpg" title="Platforma e-commerce Sky-Shop informuje swoich klientów o ataku."/>
+   </a>
+   <p>
+    To nie będzie łatwy poranek dla właścicieli sklepów prowadzonych na platformie e-commerce sky-shop.pl. Od rana, platforma prowadzi akcję informacyjną, dotyczącą ataku, który został wykryty 28.10.2025 r.  Sky-Shop rozesłał wiadomość e-mail do swoich klientów, w której obszernie informuje o zaistniałym incydencie. Według przeprowadzonej analizy powłamaniowej, do ataku miało dojść 19.10.2025, kiedy…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/platforma-e-commerce-sky-shop-pl-informuje-swoich-klientow-o-ataku/" title="Platforma e-commerce Sky-Shop informuje swoich klientów o ataku.">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52671">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/przelaczniki-bez-tajemnic-szkolenie-ktore-moze-zaskoczyc-nawet-doswiadczonych-adminow/" title="Przełączniki bez tajemnic – szkolenie, które może zaskoczyć nawet doświadczonych adminów">
+    Przełączniki bez tajemnic – szkolenie, które może zaskoczyć nawet doświadczonych adminów
+   </a>
+  </h2>
+  <div class="meta">
+   16 października 2025, 10:04 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/przelaczniki-bez-tajemnic-szkolenie-ktore-moze-zaskoczyc-nawet-doswiadczonych-adminow/#comments">
+    komentarze 2
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/przelaczniki-bez-tajemnic-szkolenie-ktore-moze-zaskoczyc-nawet-doswiadczonych-adminow/" title="Przełączniki bez tajemnic – szkolenie, które może zaskoczyć nawet doświadczonych adminów">
+    <img alt="Przełączniki bez tajemnic – szkolenie, które może zaskoczyć nawet doświadczonych adminów" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/10/sieciPW-1-150x150.jpg" title="Przełączniki bez tajemnic – szkolenie, które może zaskoczyć nawet doświadczonych adminów"/>
+   </a>
+   <p>
+    Sieć to żywy organizm. Każdy przełącznik to węzeł, przez który płyną kluczowe dane. Jedno źle skonfigurowane ustawienie warstwy drugiej i atakujący może znaleźć się w środku. Natywny VLAN 1 często pozostaje niezmieniony od pierwszego wdrożenia. Mechanizm Port Security działa domyślnie, ale czy wiesz, jak zabezpieczyć go przed sprytnymi atakami klasy…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/przelaczniki-bez-tajemnic-szkolenie-ktore-moze-zaskoczyc-nawet-doswiadczonych-adminow/" title="Przełączniki bez tajemnic – szkolenie, które może zaskoczyć nawet doświadczonych adminów">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52575">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/zabbix-grafana-czesc-2-przedstawianie-danych/" title="Zabbix + Grafana – część 2 – Przedstawianie danych">
+    Zabbix + Grafana – część 2 – Przedstawianie danych
+   </a>
+  </h2>
+  <div class="meta">
+   11 października 2025, 10:16 |
+   <a href="https://sekurak.pl/teksty/" rel="category tag">
+    Teksty
+   </a>
+   |
+   <a href="https://sekurak.pl/zabbix-grafana-czesc-2-przedstawianie-danych/#comments">
+    1 komentarz
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/zabbix-grafana-czesc-2-przedstawianie-danych/" title="Zabbix + Grafana – część 2 – Przedstawianie danych">
+    <img alt="Zabbix + Grafana – część 2 – Przedstawianie danych" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/10/image12-150x150.png" title="Zabbix + Grafana – część 2 – Przedstawianie danych"/>
+   </a>
+   <p>
+    Druga część naszej serii o integracji Zabbixa oraz Grafany. Tym razem Albert wprowadzi Czytelnika w świat przygotowania i prezentacji różnego typu danych przy pomocy dashboardów Grafany.
+   </p>
+   <a class="readMore" href="https://sekurak.pl/zabbix-grafana-czesc-2-przedstawianie-danych/" title="Zabbix + Grafana – część 2 – Przedstawianie danych">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52607">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/ostatnia-prosta-juz-za-10-dni-mega-sekurak-hacking-party-bilety-online-specjalny-bilet-dla-kumpla-i-pelna-agenda-wydarzenia/" title="Ostatnia prosta! Już za 10 dni Mega Sekurak Hacking Party. Bilety online, specjalny „bilet dla kumpla” i pełna agenda wydarzenia">
+    Ostatnia prosta! Już za 10 dni Mega Sekurak Hacking Party. Bilety online, specjalny „bilet dla kumpla” i pełna agenda wydarzenia
+   </a>
+  </h2>
+  <div class="meta">
+   10 października 2025, 11:06 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/ostatnia-prosta-juz-za-10-dni-mega-sekurak-hacking-party-bilety-online-specjalny-bilet-dla-kumpla-i-pelna-agenda-wydarzenia/#respond">
+    0 komentarzy
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/ostatnia-prosta-juz-za-10-dni-mega-sekurak-hacking-party-bilety-online-specjalny-bilet-dla-kumpla-i-pelna-agenda-wydarzenia/" title="Ostatnia prosta! Już za 10 dni Mega Sekurak Hacking Party. Bilety online, specjalny „bilet dla kumpla” i pełna agenda wydarzenia">
+    <img alt="Ostatnia prosta! Już za 10 dni Mega Sekurak Hacking Party. Bilety online, specjalny „bilet dla kumpla” i pełna agenda wydarzenia" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/10/unnamed-150x150.webp" title="Ostatnia prosta! Już za 10 dni Mega Sekurak Hacking Party. Bilety online, specjalny „bilet dla kumpla” i pełna agenda wydarzenia"/>
+   </a>
+   <p>
+    20 października zbliża się coraz większymi krokami. Jesteśmy naprawdę podekscytowani tą edycją Mega Sekurak Hacking Party. Włożyliśmy w nią całe serducho i przygotowaliśmy program inny niż wszystkie. Przekonajcie się sami 🙂 Zanim ruszymy, zapraszamy Cię jeszcze na otwarty event „Mega Sekurak Hacking Party 2025 – ostatnia prosta”. Jesteś zapisany? Przyjdź,…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/ostatnia-prosta-juz-za-10-dni-mega-sekurak-hacking-party-bilety-online-specjalny-bilet-dla-kumpla-i-pelna-agenda-wydarzenia/" title="Ostatnia prosta! Już za 10 dni Mega Sekurak Hacking Party. Bilety online, specjalny „bilet dla kumpla” i pełna agenda wydarzenia">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52525">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/hackowanie-wodociagow-na-zywo/" title="Hackowanie wodociągów na żywo!">
+    Hackowanie wodociągów na żywo!
+   </a>
+  </h2>
+  <div class="meta">
+   02 października 2025, 18:04 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/hackowanie-wodociagow-na-zywo/#comments">
+    komentarzy 5
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/hackowanie-wodociagow-na-zywo/" title="Hackowanie wodociągów na żywo!">
+    <img alt="Hackowanie wodociągów na żywo!" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/10/Zrzut-ekranu-2025-10-2-o-18.02.42-150x150.png" title="Hackowanie wodociągów na żywo!"/>
+   </a>
+   <p>
+    Wyobraź sobie cyberatak, który manipuluje procesem uzdatniania wody. Podczas naszego szkolenia Hackowanie wodociągów na żywo pokażemy Ci symulację takiego ataku na sieć wodociągową. Dowiesz się, gdzie mogą czaić się luki w zabezpieczeniach i – co kluczowe – jak je załatać dzięki skutecznym procedurom i kontrolom.  Nie musisz być ekspertem od…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/hackowanie-wodociagow-na-zywo/" title="Hackowanie wodociągów na żywo!">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52506">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/podszycie-pod-pakiet-npm-i-backdoor-w-serwerze-mcp/" title="Podszycie pod pakiet npm i backdoor w serwerze MCP">
+    Podszycie pod pakiet npm i backdoor w serwerze MCP
+   </a>
+  </h2>
+  <div class="meta">
+   01 października 2025, 08:59 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/podszycie-pod-pakiet-npm-i-backdoor-w-serwerze-mcp/#respond">
+    0 komentarzy
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/podszycie-pod-pakiet-npm-i-backdoor-w-serwerze-mcp/" title="Podszycie pod pakiet npm i backdoor w serwerze MCP">
+    <img alt="Podszycie pod pakiet npm i backdoor w serwerze MCP" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2023/01/hacker-ziom-150x150.jpeg" title="Podszycie pod pakiet npm i backdoor w serwerze MCP"/>
+   </a>
+   <p>
+    Systemy agentowe, duże modele językowe oraz już-nie-taka-nowość (chociaż wciąż zyskujące popularność) serwery MCP gościły na łamach sekurak.pl wielokrotnie. Pod jednym z artykułów, gdzie opisywaliśmy możliwe wektory ataków na serwery MCP, można było spotkać głosy sceptycznie podchodzące do tematu niebezpiecznych serwerów. Dlatego tym razem chcielibyśmy przedstawić atak, którego wystąpienie było tylko…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/podszycie-pod-pakiet-npm-i-backdoor-w-serwerze-mcp/" title="Podszycie pod pakiet npm i backdoor w serwerze MCP">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52496">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/krytyczne-podatnosci-rce-w-pad-cms-zgloszenie-przez-ekspertow-securitum-i-analiza-cert-polska-konieczne-natychmiastowe-dzialania/" title="Krytyczne podatności RCE w PAD CMS – zgłoszenie przez ekspertów Securitum i analiza CERT Polska – konieczne natychmiastowe działania">
+    Krytyczne podatności RCE w PAD CMS – zgłoszenie przez ekspertów Securitum i analiza CERT Polska – konieczne natychmiastowe działania
+   </a>
+  </h2>
+  <div class="meta">
+   30 września 2025, 22:33 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/krytyczne-podatnosci-rce-w-pad-cms-zgloszenie-przez-ekspertow-securitum-i-analiza-cert-polska-konieczne-natychmiastowe-dzialania/#comments">
+    komentarzy 12
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/krytyczne-podatnosci-rce-w-pad-cms-zgloszenie-przez-ekspertow-securitum-i-analiza-cert-polska-konieczne-natychmiastowe-dzialania/" title="Krytyczne podatności RCE w PAD CMS – zgłoszenie przez ekspertów Securitum i analiza CERT Polska – konieczne natychmiastowe działania">
+    <img alt="Krytyczne podatności RCE w PAD CMS – zgłoszenie przez ekspertów Securitum i analiza CERT Polska – konieczne natychmiastowe działania" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2023/08/hackerzzz-150x150.jpeg" title="Krytyczne podatności RCE w PAD CMS – zgłoszenie przez ekspertów Securitum i analiza CERT Polska – konieczne natychmiastowe działania"/>
+   </a>
+   <p>
+    Naszych dwóch audytorów bezpieczeństwa z Securitum – Robert Kruczek oraz Kamil Szczurowski w ramach działań typu happy hunting (spontaniczne testy systemów w celu poprawy jakości polskiego Internetu) wykryło krytyczne podatności typu unauthenticated Remote Code Execution (RCE) w systemie PAD CMS (na którym uruchamiane są aplikacje internetowe oraz biuletyny informacji publicznej)….
+   </p>
+   <a class="readMore" href="https://sekurak.pl/krytyczne-podatnosci-rce-w-pad-cms-zgloszenie-przez-ekspertow-securitum-i-analiza-cert-polska-konieczne-natychmiastowe-dzialania/" title="Krytyczne podatności RCE w PAD CMS – zgłoszenie przez ekspertów Securitum i analiza CERT Polska – konieczne natychmiastowe działania">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52470">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/hackerzy-vs-dane-medyczne-pokaz-hackowania-na-zywo/" title="Hackerzy vs dane medyczne. POKAZ HACKOWANIA NA ŻYWO">
+    Hackerzy vs dane medyczne. POKAZ HACKOWANIA NA ŻYWO
+   </a>
+  </h2>
+  <div class="meta">
+   29 września 2025, 11:38 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/hackerzy-vs-dane-medyczne-pokaz-hackowania-na-zywo/#respond">
+    0 komentarzy
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/hackerzy-vs-dane-medyczne-pokaz-hackowania-na-zywo/" title="Hackerzy vs dane medyczne. POKAZ HACKOWANIA NA ŻYWO">
+    <img alt="Hackerzy vs dane medyczne. POKAZ HACKOWANIA NA ŻYWO" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/Dane-medyczne-SQ-150x150.png" title="Hackerzy vs dane medyczne. POKAZ HACKOWANIA NA ŻYWO"/>
+   </a>
+   <p>
+    Wycieki danych medycznych i podatności w systemach gromadzących takie dane są poważnym zagrożeniem i – co zupełnie zrozumiałe – budzą zawsze duże emocje oraz nasze szczególne obawy. Dane medyczne są wyjątkowo wrażliwe i mogą być wykorzystane do kradzieży tożsamości, wyłudzeń finansowych czy szantażu. Dodatkowo ataki ransomware paraliżują działalność placówek, stwarzając…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/hackerzy-vs-dane-medyczne-pokaz-hackowania-na-zywo/" title="Hackerzy vs dane medyczne. POKAZ HACKOWANIA NA ŻYWO">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52303">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/jak-ulatwic-sobie-zycie-i-madrze-korzystac-z-dobrodziejstw-ai-tym-razem-bierzemy-na-warsztat-ai-w-edukacji-super-hinty-rodzica-i-ucznia/" title="Jak ułatwić sobie życie i mądrze korzystać z dobrodziejstw AI? Tym razem bierzemy na warsztat AI w edukacji (super hinty rodzica i ucznia!)">
+    Jak ułatwić sobie życie i mądrze korzystać z dobrodziejstw AI? Tym razem bierzemy na warsztat AI w edukacji (super hinty rodzica i ucznia!)
+   </a>
+  </h2>
+  <div class="meta">
+   18 września 2025, 17:07 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/jak-ulatwic-sobie-zycie-i-madrze-korzystac-z-dobrodziejstw-ai-tym-razem-bierzemy-na-warsztat-ai-w-edukacji-super-hinty-rodzica-i-ucznia/#comments">
+    1 komentarz
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/jak-ulatwic-sobie-zycie-i-madrze-korzystac-z-dobrodziejstw-ai-tym-razem-bierzemy-na-warsztat-ai-w-edukacji-super-hinty-rodzica-i-ucznia/" title="Jak ułatwić sobie życie i mądrze korzystać z dobrodziejstw AI? Tym razem bierzemy na warsztat AI w edukacji (super hinty rodzica i ucznia!)">
+    <img alt="Jak ułatwić sobie życie i mądrze korzystać z dobrodziejstw AI? Tym razem bierzemy na warsztat AI w edukacji (super hinty rodzica i ucznia!)" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/Zrzut-ekranu-2025-09-18-o-17.03.16-150x150.png" title="Jak ułatwić sobie życie i mądrze korzystać z dobrodziejstw AI? Tym razem bierzemy na warsztat AI w edukacji (super hinty rodzica i ucznia!)"/>
+   </a>
+   <p>
+    Bycie rodzicem nie jest łatwe, a w czasach rewolucji AI i zmian w edukacji niesie za sobą dodatkowe wyzwania 🙂. AI to rzeczywistość, która otwiera drzwi do nowych możliwości, ale niesie też ze sobą poważne ryzyka. Jak wykorzystać atuty AI, by wspierać rozwój dziecka, nie zabijając przy tym naturalnej ciekawości…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/jak-ulatwic-sobie-zycie-i-madrze-korzystac-z-dobrodziejstw-ai-tym-razem-bierzemy-na-warsztat-ai-w-edukacji-super-hinty-rodzica-i-ucznia/" title="Jak ułatwić sobie życie i mądrze korzystać z dobrodziejstw AI? Tym razem bierzemy na warsztat AI w edukacji (super hinty rodzica i ucznia!)">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52213">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/zapraszamy-na-mega-sekurak-hacking-party-unikalna-konferencje-o-cyberbezpieczenstwie/" title="Zapraszamy na MEGA Sekurak Hacking Party: unikalną konferencję o cyberbezpieczeństwie">
+    Zapraszamy na MEGA Sekurak Hacking Party: unikalną konferencję o cyberbezpieczeństwie
+   </a>
+  </h2>
+  <div class="meta">
+   16 września 2025, 17:12 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/zapraszamy-na-mega-sekurak-hacking-party-unikalna-konferencje-o-cyberbezpieczenstwie/#respond">
+    0 komentarzy
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/zapraszamy-na-mega-sekurak-hacking-party-unikalna-konferencje-o-cyberbezpieczenstwie/" title="Zapraszamy na MEGA Sekurak Hacking Party: unikalną konferencję o cyberbezpieczeństwie">
+    <img alt="Zapraszamy na MEGA Sekurak Hacking Party: unikalną konferencję o cyberbezpieczeństwie" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/MSHP-foto-150x150.webp" title="Zapraszamy na MEGA Sekurak Hacking Party: unikalną konferencję o cyberbezpieczeństwie"/>
+   </a>
+   <p>
+    Dlaczego warto być na MSHP? Zapytaliśmy o to w ankiecie uczestników ostatniej edycji. Na pierwszym miejscu wskazali oni: Świetne prezentacje i wysoki poziom merytoryczny A co to konkretnie oznacza? To, że często prosimy zaufanych prelegentów o premierowe tematy na MSHP. To doświadczeni praktycy, charyzmatyczni specjaliści i co ważne – fascynaci…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/zapraszamy-na-mega-sekurak-hacking-party-unikalna-konferencje-o-cyberbezpieczenstwie/" title="Zapraszamy na MEGA Sekurak Hacking Party: unikalną konferencję o cyberbezpieczeństwie">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52188">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/zabbix-grafana-cz-1/" title="Zabbix + Grafana – część 1 – instalacja">
+    Zabbix + Grafana – część 1 – instalacja
+   </a>
+  </h2>
+  <div class="meta">
+   16 września 2025, 12:40 |
+   <a href="https://sekurak.pl/teksty/" rel="category tag">
+    Teksty
+   </a>
+   |
+   <a href="https://sekurak.pl/zabbix-grafana-cz-1/#comments">
+    komentarzy 5
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/zabbix-grafana-cz-1/" title="Zabbix + Grafana – część 1 – instalacja">
+    <img alt="Zabbix + Grafana – część 1 – instalacja" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/image3-150x150.png" title="Zabbix + Grafana – część 1 – instalacja"/>
+   </a>
+   <p>
+    Albert Przybylski przedstawia jak przy pomocy Grafany obejść ograniczenia dashboardów Zabbixa i rozbudować możliwości monitoringu środowiska.
+    <br/>
+    To pierwszy z cyklu artykułów, które opublikujemy na sekuraku. Na początku przedstawione zostaną aspekty bezpiecznej konfiguracji środowiska.
+   </p>
+   <a class="readMore" href="https://sekurak.pl/zabbix-grafana-cz-1/" title="Zabbix + Grafana – część 1 – instalacja">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52172">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/ruszyla-rekrutacja-do-xvi-edycji-programu-twoje-dane-twoja-sprawa/" title="„Twoje dane – Twoja sprawa” – ruszyła rekrutacja do programu organizowanego przez UODO.">
+    „Twoje dane – Twoja sprawa” – ruszyła rekrutacja do programu organizowanego przez UODO.
+   </a>
+  </h2>
+  <div class="meta">
+   15 września 2025, 16:42 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/ruszyla-rekrutacja-do-xvi-edycji-programu-twoje-dane-twoja-sprawa/#respond">
+    0 komentarzy
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/ruszyla-rekrutacja-do-xvi-edycji-programu-twoje-dane-twoja-sprawa/" title="„Twoje dane – Twoja sprawa” – ruszyła rekrutacja do programu organizowanego przez UODO.">
+    <img alt="„Twoje dane – Twoja sprawa” – ruszyła rekrutacja do programu organizowanego przez UODO." class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/XVI-EDYCJA-OGOLNOPOLSKIEGO-PROGRAMU-EDUKACYJNEGO-150x150.jpg" title="„Twoje dane – Twoja sprawa” – ruszyła rekrutacja do programu organizowanego przez UODO."/>
+   </a>
+   <p>
+    Sekurak objął akcję patronatem medialnym. Szczegóły poniżej. Program „Twoje dane – Twoja sprawa” to ogólnopolski projekt edukacyjny UODO, który od 2009 r. buduje świadomość dzieci, młodzieży, nauczycieli i rodziców o ochronie danych osobowych. Zarówno forma, jak i tematyka programu ewoluują, odpowiadając na wyzwania technologiczne oraz społeczne. Program „Twoje dane –…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/ruszyla-rekrutacja-do-xvi-edycji-programu-twoje-dane-twoja-sprawa/" title="„Twoje dane – Twoja sprawa” – ruszyła rekrutacja do programu organizowanego przez UODO.">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52141">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/szyfrowanie-danych-usuwanie-backupow-zacieranie-sladow-analiza-ransomware-dire-wolf/" title="Szyfrowanie danych, usuwanie backupów, zacieranie śladów… analiza ransomware Dire Wolf">
+    Szyfrowanie danych, usuwanie backupów, zacieranie śladów… analiza ransomware Dire Wolf
+   </a>
+  </h2>
+  <div class="meta">
+   12 września 2025, 13:55 |
+   <a href="https://sekurak.pl/teksty/" rel="category tag">
+    Teksty
+   </a>
+   |
+   <a href="https://sekurak.pl/szyfrowanie-danych-usuwanie-backupow-zacieranie-sladow-analiza-ransomware-dire-wolf/#comments">
+    komentarzy 6
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/szyfrowanie-danych-usuwanie-backupow-zacieranie-sladow-analiza-ransomware-dire-wolf/" title="Szyfrowanie danych, usuwanie backupów, zacieranie śladów… analiza ransomware Dire Wolf">
+    <img alt="Szyfrowanie danych, usuwanie backupów, zacieranie śladów… analiza ransomware Dire Wolf" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/direwolf-150x150.png" title="Szyfrowanie danych, usuwanie backupów, zacieranie śladów… analiza ransomware Dire Wolf"/>
+   </a>
+   <p>
+    Dire Wolf jest nową grupą przestępczą, której aktywność zaobserwowano w maju br. Pierwszymi ofiarami cyberprzestępców były firmy z sektora technologicznego, finansowego oraz budownictwa działające we Włoszech, Tajlandii, Australii oraz Indii. Działania cyberprzestępców ukierunkowane są głównie na zysk finansowy. W celu zwiększenia szansy na uzyskanie okupu, wykorzystują technikę double extortion, grożąc…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/szyfrowanie-danych-usuwanie-backupow-zacieranie-sladow-analiza-ransomware-dire-wolf/" title="Szyfrowanie danych, usuwanie backupów, zacieranie śladów… analiza ransomware Dire Wolf">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52093">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/tak-zhakowali-mnie-przepraszam-czyli-najwiekszy-atak-na-lancuch-dostaw-z-phishingiem-w-tle-straty-wyceniono-na-20-05/" title="„Tak, zhakowali mnie, przepraszam” – czyli „największy” atak na łańcuch dostaw (z phishingiem w tle) – straty wyceniono na $20.05">
+    „Tak, zhakowali mnie, przepraszam” – czyli „największy” atak na łańcuch dostaw (z phishingiem w tle) – straty wyceniono na $20.05
+   </a>
+  </h2>
+  <div class="meta">
+   09 września 2025, 17:59 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/tak-zhakowali-mnie-przepraszam-czyli-najwiekszy-atak-na-lancuch-dostaw-z-phishingiem-w-tle-straty-wyceniono-na-20-05/#comments">
+    komentarze 2
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/tak-zhakowali-mnie-przepraszam-czyli-najwiekszy-atak-na-lancuch-dostaw-z-phishingiem-w-tle-straty-wyceniono-na-20-05/" title="„Tak, zhakowali mnie, przepraszam” – czyli „największy” atak na łańcuch dostaw (z phishingiem w tle) – straty wyceniono na $20.05">
+    <img alt="„Tak, zhakowali mnie, przepraszam” – czyli „największy” atak na łańcuch dostaw (z phishingiem w tle) – straty wyceniono na $20.05" class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/image-15-150x150.png" title="„Tak, zhakowali mnie, przepraszam” – czyli „największy” atak na łańcuch dostaw (z phishingiem w tle) – straty wyceniono na $20.05"/>
+   </a>
+   <p>
+    Przedstawiamy atak na łańcuch dostaw, który miał wstrząsnąć światem, ale na szczęście stał się tylko bolesnym przypominieniem, jak dużo trzeba jeszcze zrobić w kontekście bezpieczeństwa zależności.
+   </p>
+   <a class="readMore" href="https://sekurak.pl/tak-zhakowali-mnie-przepraszam-czyli-najwiekszy-atak-na-lancuch-dostaw-z-phishingiem-w-tle-straty-wyceniono-na-20-05/" title="„Tak, zhakowali mnie, przepraszam” – czyli „największy” atak na łańcuch dostaw (z phishingiem w tle) – straty wyceniono na $20.05">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <article class="post" id="post-52028">
+  <h2 class="postTitle">
+   <a href="https://sekurak.pl/tajniki-bezpieczenstwa-sieci-od-topowych-polskich-hackerow-pozycja-absolutnie-obowiazkowa-dla-kazdego-admina/" title="Tajniki bezpieczeństwa sieci od topowych polskich hackerów! Pozycja absolutnie obowiązkowa dla każdego admina.">
+    Tajniki bezpieczeństwa sieci od topowych polskich hackerów! Pozycja absolutnie obowiązkowa dla każdego admina.
+   </a>
+  </h2>
+  <div class="meta">
+   02 września 2025, 14:47 |
+   <a href="https://sekurak.pl/aktualnosci/" rel="category tag">
+    Aktualności
+   </a>
+   |
+   <a href="https://sekurak.pl/tajniki-bezpieczenstwa-sieci-od-topowych-polskich-hackerow-pozycja-absolutnie-obowiazkowa-dla-kazdego-admina/#comments">
+    komentarze 3
+   </a>
+  </div>
+  <div class="entry excerpt">
+   <a href="https://sekurak.pl/tajniki-bezpieczenstwa-sieci-od-topowych-polskich-hackerow-pozycja-absolutnie-obowiazkowa-dla-kazdego-admina/" title="Tajniki bezpieczeństwa sieci od topowych polskich hackerów! Pozycja absolutnie obowiązkowa dla każdego admina.">
+    <img alt="Tajniki bezpieczeństwa sieci od topowych polskich hackerów! Pozycja absolutnie obowiązkowa dla każdego admina." class="onLeft" src="https://sekurak.pl/wp-content/uploads/2025/09/1756283367280-150x150.jpeg" title="Tajniki bezpieczeństwa sieci od topowych polskich hackerów! Pozycja absolutnie obowiązkowa dla każdego admina."/>
+   </a>
+   <p>
+    W maju tego roku odpaliliśmy kurs, z którego jesteśmy naprawdę dumni. Netsecurity Master od sekuraka zgromadził podczas pierwszej edycji ponad 400 uczestników, którzy ocenili go na doskonałe 9,4/10. 9 października startujemy z drugą edycją szkolenia Netsecurity Master od sekuraka, której nie może przegapić żaden admin zamierzający jeszcze w tym roku…
+   </p>
+   <a class="readMore" href="https://sekurak.pl/tajniki-bezpieczenstwa-sieci-od-topowych-polskich-hackerow-pozycja-absolutnie-obowiazkowa-dla-kazdego-admina/" title="Tajniki bezpieczeństwa sieci od topowych polskich hackerów! Pozycja absolutnie obowiązkowa dla każdego admina.">
+    Czytaj dalej »
+   </a>
+  </div>
+ </article>
+ <div class="wp-pagenavi" role="navigation">
+  <span class="pages">
+   Strona 1 z 88
+  </span>
+  <span aria-current="page" class="current">
+   1
+  </span>
+  <a class="page larger" href="https://sekurak.pl/page/2/" title="Strona 2">
+   2
+  </a>
+  <a class="page larger" href="https://sekurak.pl/page/3/" title="Strona 3">
+   3
+  </a>
+  <a class="page larger" href="https://sekurak.pl/page/4/" title="Strona 4">
+   4
+  </a>
+  <a class="page larger" href="https://sekurak.pl/page/5/" title="Strona 5">
+   5
+  </a>
+  <span class="extend">
+   ...
+  </span>
+  <a class="larger page" href="https://sekurak.pl/page/10/" title="Strona 10">
+   10
+  </a>
+  <a class="larger page" href="https://sekurak.pl/page/20/" title="Strona 20">
+   20
+  </a>
+  <a class="larger page" href="https://sekurak.pl/page/30/" title="Strona 30">
+   30
+  </a>
+  <span class="extend">
+   ...
+  </span>
+  <a aria-label="Następna strona" class="nextpostslink" href="https://sekurak.pl/page/2/" rel="next">
+   »
+  </a>
+  <a aria-label="Last Page" class="last" href="https://sekurak.pl/page/88/">
+   Ostatnia »
+  </a>
+ </div>
+</div>
+
+2025-11-02 08:44:40,104 - DEBUG - Using selector: EpollSelector
+2025-11-02 08:44:40,448 - ERROR - Failed with non-retryable exception: BrowserType.launch: Executable doesn't exist at /home/emphie/.cache/ms-playwright/chromium-1169/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-11-02 08:54:37,757 - DEBUG - Using selector: EpollSelector
+2025-11-02 08:54:39,336 - ERROR - Failed with non-retryable exception: 'Page' object has no attribute 'wait_for_response'
+2025-11-02 08:54:44,662 - DEBUG - Using selector: EpollSelector
+2025-11-02 08:54:46,199 - ERROR - Failed with non-retryable exception: 'Page' object has no attribute 'wait_for_response'
+2025-11-02 08:59:55,183 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:00:07,959 - CRITICAL - Anchor element 'div#content' not found within timeout.
+2025-11-02 09:00:08,074 - WARNING - Attempt 1 failed with AbsentAnchorElementException: Anchor element 'div#content' not found within timeout.. Retrying in 1 seconds...
+2025-11-02 09:00:09,075 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:00:25,530 - CRITICAL - Anchor element 'div#content' not found within timeout.
+2025-11-02 09:00:25,635 - WARNING - Attempt 2 failed with AbsentAnchorElementException: Anchor element 'div#content' not found within timeout.. Retrying in 1 seconds...
+2025-11-02 09:00:26,637 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:00:39,656 - CRITICAL - Anchor element 'div#content' not found within timeout.
+2025-11-02 09:00:39,764 - ERROR - Failed after 2 attempts: Anchor element 'div#content' not found within timeout.
+2025-11-02 09:04:08,365 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:04:11,693 - ERROR - Failed with non-retryable exception: Invalid character '/' position 0
+  line 1:
+/html/body/main/section/div[1]/div/div[1]
+^
+2025-11-02 09:13:38,018 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:16:23,831 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:16:27,082 - WARNING - No link found in article
+2025-11-02 09:16:27,083 - WARNING - No link found in article
+2025-11-02 09:16:27,083 - WARNING - No link found in article
+2025-11-02 09:16:27,083 - WARNING - No link found in article
+2025-11-02 09:16:27,084 - WARNING - No link found in article
+2025-11-02 09:16:27,084 - WARNING - No link found in article
+2025-11-02 09:16:27,085 - WARNING - No link found in article
+2025-11-02 09:16:27,085 - WARNING - No link found in article
+2025-11-02 09:16:27,085 - WARNING - No link found in article
+2025-11-02 09:16:27,086 - WARNING - No link found in article
+2025-11-02 09:16:27,086 - WARNING - No link found in article
+2025-11-02 09:18:47,262 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:18:50,214 - WARNING - No link found in article
+2025-11-02 09:18:50,215 - WARNING - No link found in article
+2025-11-02 09:18:50,215 - WARNING - No link found in article
+2025-11-02 09:18:50,215 - WARNING - No link found in article
+2025-11-02 09:18:50,216 - WARNING - No link found in article
+2025-11-02 09:18:50,216 - WARNING - No link found in article
+2025-11-02 09:18:50,217 - WARNING - No link found in article
+2025-11-02 09:18:50,217 - WARNING - No link found in article
+2025-11-02 09:18:50,217 - WARNING - No link found in article
+2025-11-02 09:18:50,218 - WARNING - No link found in article
+2025-11-02 09:18:50,218 - WARNING - No link found in article
+2025-11-02 09:19:59,117 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:20:12,456 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:20:26,669 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:21:13,170 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:21:41,363 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:21:54,616 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:22:11,598 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:22:52,445 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:22:55,986 - DEBUG - Page loaded successfully, proceeding to parse HTML content.
+2025-11-02 09:23:08,859 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:23:11,632 - DEBUG - Page loaded successfully, proceeding to parse HTML content.
+2025-11-02 09:23:11,683 - DEBUG - HTML content parsed successfully.
+2025-11-02 09:23:30,812 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:23:34,089 - DEBUG - Page loaded successfully, proceeding to parse HTML content.
+2025-11-02 09:23:34,139 - DEBUG - HTML content parsed successfully.
+2025-11-02 09:23:34,144 - DEBUG - Articles container found: True
+2025-11-02 09:23:34,150 - DEBUG - Number of articles found: 44
+2025-11-02 09:24:13,641 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:24:16,412 - DEBUG - Page loaded successfully, proceeding to parse HTML content.
+2025-11-02 09:24:16,468 - DEBUG - HTML content parsed successfully.
+2025-11-02 09:24:16,475 - DEBUG - Articles container found: True
+2025-11-02 09:24:16,484 - DEBUG - Number of articles found: 44
+2025-11-02 09:24:16,484 - DEBUG - Link element found: True
+2025-11-02 09:24:16,485 - DEBUG - Link element found: True
+2025-11-02 09:24:16,485 - DEBUG - Link element found: True
+2025-11-02 09:24:16,485 - DEBUG - Link element found: True
+2025-11-02 09:24:16,485 - DEBUG - Link element found: True
+2025-11-02 09:24:16,485 - DEBUG - Link element found: True
+2025-11-02 09:24:16,486 - DEBUG - Link element found: True
+2025-11-02 09:24:16,486 - DEBUG - Link element found: True
+2025-11-02 09:24:16,486 - DEBUG - Link element found: True
+2025-11-02 09:24:16,486 - DEBUG - Link element found: True
+2025-11-02 09:24:16,486 - DEBUG - Link element found: True
+2025-11-02 09:24:16,487 - DEBUG - Link element found: True
+2025-11-02 09:24:16,487 - DEBUG - Link element found: True
+2025-11-02 09:24:16,487 - DEBUG - Link element found: True
+2025-11-02 09:24:16,488 - DEBUG - Link element found: True
+2025-11-02 09:24:16,488 - DEBUG - Link element found: True
+2025-11-02 09:24:16,488 - DEBUG - Link element found: True
+2025-11-02 09:24:16,488 - DEBUG - Link element found: True
+2025-11-02 09:24:16,488 - DEBUG - Link element found: True
+2025-11-02 09:24:16,489 - DEBUG - Link element found: True
+2025-11-02 09:24:16,489 - DEBUG - Link element found: True
+2025-11-02 09:24:16,489 - DEBUG - Link element found: True
+2025-11-02 09:24:16,490 - DEBUG - Link element found: True
+2025-11-02 09:24:16,490 - DEBUG - Link element found: True
+2025-11-02 09:24:16,490 - DEBUG - Link element found: True
+2025-11-02 09:24:16,490 - DEBUG - Link element found: True
+2025-11-02 09:24:16,490 - DEBUG - Link element found: True
+2025-11-02 09:24:16,491 - DEBUG - Link element found: True
+2025-11-02 09:24:16,491 - DEBUG - Link element found: True
+2025-11-02 09:24:16,491 - DEBUG - Link element found: True
+2025-11-02 09:24:16,491 - DEBUG - Link element found: True
+2025-11-02 09:24:16,491 - DEBUG - Link element found: True
+2025-11-02 09:24:16,492 - DEBUG - Link element found: True
+2025-11-02 09:24:16,492 - DEBUG - Link element found: True
+2025-11-02 09:24:16,492 - DEBUG - Link element found: True
+2025-11-02 09:24:16,492 - DEBUG - Link element found: True
+2025-11-02 09:24:16,493 - DEBUG - Link element found: True
+2025-11-02 09:24:16,493 - DEBUG - Link element found: True
+2025-11-02 09:24:16,493 - DEBUG - Link element found: True
+2025-11-02 09:24:16,493 - DEBUG - Link element found: True
+2025-11-02 09:24:16,494 - DEBUG - Link element found: True
+2025-11-02 09:24:16,494 - DEBUG - Link element found: True
+2025-11-02 09:24:16,494 - DEBUG - Link element found: True
+2025-11-02 09:24:16,494 - DEBUG - Link element found: True
+2025-11-02 09:25:31,360 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:25:34,191 - DEBUG - Page loaded successfully, proceeding to parse HTML content.
+2025-11-02 09:25:34,239 - DEBUG - HTML content parsed successfully.
+2025-11-02 09:25:34,244 - DEBUG - Articles container found: True
+2025-11-02 09:25:34,252 - DEBUG - Number of articles found: 44
+2025-11-02 09:25:34,253 - DEBUG - Link element found: True
+2025-11-02 09:25:34,254 - DEBUG - Link element found: True
+2025-11-02 09:25:34,254 - DEBUG - Link element found: True
+2025-11-02 09:25:34,254 - DEBUG - Link element found: True
+2025-11-02 09:25:34,254 - DEBUG - Link element found: True
+2025-11-02 09:25:34,254 - DEBUG - Link element found: True
+2025-11-02 09:25:34,254 - DEBUG - Link element found: True
+2025-11-02 09:25:34,255 - DEBUG - Link element found: True
+2025-11-02 09:25:34,255 - DEBUG - Link element found: True
+2025-11-02 09:25:34,255 - DEBUG - Link element found: True
+2025-11-02 09:25:34,255 - DEBUG - Link element found: True
+2025-11-02 09:25:34,255 - DEBUG - Link element found: True
+2025-11-02 09:25:34,255 - DEBUG - Link element found: True
+2025-11-02 09:25:34,256 - DEBUG - Link element found: True
+2025-11-02 09:25:34,256 - DEBUG - Link element found: True
+2025-11-02 09:25:34,256 - DEBUG - Link element found: True
+2025-11-02 09:25:34,256 - DEBUG - Link element found: True
+2025-11-02 09:25:34,256 - DEBUG - Link element found: True
+2025-11-02 09:25:34,257 - DEBUG - Link element found: True
+2025-11-02 09:25:34,257 - DEBUG - Link element found: True
+2025-11-02 09:25:34,257 - DEBUG - Link element found: True
+2025-11-02 09:25:34,257 - DEBUG - Link element found: True
+2025-11-02 09:25:34,257 - DEBUG - Link element found: True
+2025-11-02 09:25:34,257 - DEBUG - Link element found: True
+2025-11-02 09:25:34,258 - DEBUG - Link element found: True
+2025-11-02 09:25:34,258 - DEBUG - Link element found: True
+2025-11-02 09:25:34,258 - DEBUG - Link element found: True
+2025-11-02 09:25:34,258 - DEBUG - Link element found: True
+2025-11-02 09:25:34,259 - DEBUG - Link element found: True
+2025-11-02 09:25:34,259 - DEBUG - Link element found: True
+2025-11-02 09:25:34,259 - DEBUG - Link element found: True
+2025-11-02 09:25:34,259 - DEBUG - Link element found: True
+2025-11-02 09:25:34,259 - DEBUG - Link element found: True
+2025-11-02 09:25:34,260 - DEBUG - Link element found: True
+2025-11-02 09:25:34,260 - DEBUG - Link element found: True
+2025-11-02 09:25:34,260 - DEBUG - Link element found: True
+2025-11-02 09:25:34,260 - DEBUG - Link element found: True
+2025-11-02 09:25:34,260 - DEBUG - Link element found: True
+2025-11-02 09:25:34,261 - DEBUG - Link element found: True
+2025-11-02 09:25:34,261 - DEBUG - Link element found: True
+2025-11-02 09:25:34,261 - DEBUG - Link element found: True
+2025-11-02 09:25:34,261 - DEBUG - Link element found: True
+2025-11-02 09:25:34,261 - DEBUG - Link element found: True
+2025-11-02 09:25:34,261 - DEBUG - Link element found: True
+2025-11-02 09:25:34,262 - ERROR - Failed with non-retryable exception: local variable 'lastsaved_articlelink' referenced before assignment
+2025-11-02 09:26:58,904 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:27:01,705 - DEBUG - Page loaded successfully, proceeding to parse HTML content.
+2025-11-02 09:27:01,736 - DEBUG - HTML content parsed successfully.
+2025-11-02 09:27:01,739 - DEBUG - Articles container found: True
+2025-11-02 09:27:01,741 - DEBUG - Number of articles found: 44
+2025-11-02 09:27:01,742 - DEBUG - Link element found: True
+2025-11-02 09:27:01,742 - DEBUG - Link element found: True
+2025-11-02 09:27:01,742 - DEBUG - Link element found: True
+2025-11-02 09:27:01,742 - DEBUG - Link element found: True
+2025-11-02 09:27:01,742 - DEBUG - Link element found: True
+2025-11-02 09:27:01,743 - DEBUG - Link element found: True
+2025-11-02 09:27:01,743 - DEBUG - Link element found: True
+2025-11-02 09:27:01,743 - DEBUG - Link element found: True
+2025-11-02 09:27:01,743 - DEBUG - Link element found: True
+2025-11-02 09:27:01,743 - DEBUG - Link element found: True
+2025-11-02 09:27:01,743 - DEBUG - Link element found: True
+2025-11-02 09:27:01,743 - DEBUG - Link element found: True
+2025-11-02 09:27:01,743 - DEBUG - Link element found: True
+2025-11-02 09:27:01,743 - DEBUG - Link element found: True
+2025-11-02 09:27:01,743 - DEBUG - Link element found: True
+2025-11-02 09:27:01,744 - DEBUG - Link element found: True
+2025-11-02 09:27:01,744 - DEBUG - Link element found: True
+2025-11-02 09:27:01,744 - DEBUG - Link element found: True
+2025-11-02 09:27:01,744 - DEBUG - Link element found: True
+2025-11-02 09:27:01,744 - DEBUG - Link element found: True
+2025-11-02 09:27:01,744 - DEBUG - Link element found: True
+2025-11-02 09:27:01,744 - DEBUG - Link element found: True
+2025-11-02 09:27:01,744 - DEBUG - Link element found: True
+2025-11-02 09:27:01,744 - DEBUG - Link element found: True
+2025-11-02 09:27:01,744 - DEBUG - Link element found: True
+2025-11-02 09:27:01,745 - DEBUG - Link element found: True
+2025-11-02 09:27:01,745 - DEBUG - Link element found: True
+2025-11-02 09:27:01,745 - DEBUG - Link element found: True
+2025-11-02 09:27:01,745 - DEBUG - Link element found: True
+2025-11-02 09:27:01,745 - DEBUG - Link element found: True
+2025-11-02 09:27:01,745 - DEBUG - Link element found: True
+2025-11-02 09:27:01,745 - DEBUG - Link element found: True
+2025-11-02 09:27:01,745 - DEBUG - Link element found: True
+2025-11-02 09:27:01,745 - DEBUG - Link element found: True
+2025-11-02 09:27:01,745 - DEBUG - Link element found: True
+2025-11-02 09:27:01,745 - DEBUG - Link element found: True
+2025-11-02 09:27:01,746 - DEBUG - Link element found: True
+2025-11-02 09:27:01,746 - DEBUG - Link element found: True
+2025-11-02 09:27:01,746 - DEBUG - Link element found: True
+2025-11-02 09:27:01,746 - DEBUG - Link element found: True
+2025-11-02 09:27:01,746 - DEBUG - Link element found: True
+2025-11-02 09:27:01,746 - DEBUG - Link element found: True
+2025-11-02 09:27:01,746 - DEBUG - Link element found: True
+2025-11-02 09:27:01,746 - DEBUG - Link element found: True
+2025-11-02 09:27:14,426 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:27:17,348 - DEBUG - Page loaded successfully, proceeding to parse HTML content.
+2025-11-02 09:27:17,375 - DEBUG - HTML content parsed successfully.
+2025-11-02 09:27:17,377 - DEBUG - Articles container found: True
+2025-11-02 09:27:17,379 - DEBUG - Number of articles found: 44
+2025-11-02 09:27:17,379 - DEBUG - Link element found: True
+2025-11-02 09:27:17,379 - DEBUG - Link element found: True
+2025-11-02 09:27:17,379 - DEBUG - Link element found: True
+2025-11-02 09:27:17,379 - DEBUG - Link element found: True
+2025-11-02 09:27:17,379 - DEBUG - Link element found: True
+2025-11-02 09:27:17,380 - DEBUG - Link element found: True
+2025-11-02 09:27:17,380 - DEBUG - Link element found: True
+2025-11-02 09:27:17,380 - DEBUG - Link element found: True
+2025-11-02 09:27:17,380 - DEBUG - Link element found: True
+2025-11-02 09:27:17,380 - DEBUG - Link element found: True
+2025-11-02 09:27:17,380 - DEBUG - Link element found: True
+2025-11-02 09:27:17,380 - DEBUG - Link element found: True
+2025-11-02 09:27:17,380 - DEBUG - Link element found: True
+2025-11-02 09:27:17,380 - DEBUG - Link element found: True
+2025-11-02 09:27:17,380 - DEBUG - Link element found: True
+2025-11-02 09:27:17,380 - DEBUG - Link element found: True
+2025-11-02 09:27:17,380 - DEBUG - Link element found: True
+2025-11-02 09:27:17,380 - DEBUG - Link element found: True
+2025-11-02 09:27:17,381 - DEBUG - Link element found: True
+2025-11-02 09:27:17,381 - DEBUG - Link element found: True
+2025-11-02 09:27:17,381 - DEBUG - Link element found: True
+2025-11-02 09:27:17,381 - DEBUG - Link element found: True
+2025-11-02 09:27:17,381 - DEBUG - Link element found: True
+2025-11-02 09:27:17,381 - DEBUG - Link element found: True
+2025-11-02 09:27:17,381 - DEBUG - Link element found: True
+2025-11-02 09:27:17,381 - DEBUG - Link element found: True
+2025-11-02 09:27:17,381 - DEBUG - Link element found: True
+2025-11-02 09:27:17,381 - DEBUG - Link element found: True
+2025-11-02 09:27:17,381 - DEBUG - Link element found: True
+2025-11-02 09:27:17,381 - DEBUG - Link element found: True
+2025-11-02 09:27:17,382 - DEBUG - Link element found: True
+2025-11-02 09:27:17,382 - DEBUG - Link element found: True
+2025-11-02 09:27:17,382 - DEBUG - Link element found: True
+2025-11-02 09:27:17,382 - DEBUG - Link element found: True
+2025-11-02 09:27:17,382 - DEBUG - Link element found: True
+2025-11-02 09:27:17,382 - DEBUG - Link element found: True
+2025-11-02 09:27:17,382 - DEBUG - Link element found: True
+2025-11-02 09:27:17,382 - DEBUG - Link element found: True
+2025-11-02 09:27:17,382 - DEBUG - Link element found: True
+2025-11-02 09:27:17,382 - DEBUG - Link element found: True
+2025-11-02 09:27:17,382 - DEBUG - Link element found: True
+2025-11-02 09:27:17,382 - DEBUG - Link element found: True
+2025-11-02 09:27:17,382 - DEBUG - Link element found: True
+2025-11-02 09:27:17,383 - DEBUG - Link element found: True
+2025-11-02 09:34:15,370 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:34:18,110 - DEBUG - Page loaded successfully, proceeding to parse HTML content.
+2025-11-02 09:34:18,139 - DEBUG - HTML content parsed successfully.
+2025-11-02 09:34:18,141 - DEBUG - Articles container found: True
+2025-11-02 09:34:18,144 - DEBUG - Number of articles found: 44
+2025-11-02 09:34:18,144 - DEBUG - Link element found: True
+2025-11-02 09:34:18,144 - DEBUG - Link element found: True
+2025-11-02 09:34:18,144 - DEBUG - Link element found: True
+2025-11-02 09:34:18,144 - DEBUG - Link element found: True
+2025-11-02 09:34:18,145 - DEBUG - Link element found: True
+2025-11-02 09:34:18,145 - DEBUG - Link element found: True
+2025-11-02 09:34:18,145 - DEBUG - Link element found: True
+2025-11-02 09:34:18,145 - DEBUG - Link element found: True
+2025-11-02 09:34:18,145 - DEBUG - Link element found: True
+2025-11-02 09:34:18,145 - DEBUG - Link element found: True
+2025-11-02 09:34:18,145 - DEBUG - Link element found: True
+2025-11-02 09:34:18,145 - DEBUG - Link element found: True
+2025-11-02 09:34:18,146 - DEBUG - Link element found: True
+2025-11-02 09:34:18,146 - DEBUG - Link element found: True
+2025-11-02 09:34:18,146 - DEBUG - Link element found: True
+2025-11-02 09:34:18,146 - DEBUG - Link element found: True
+2025-11-02 09:34:18,146 - DEBUG - Link element found: True
+2025-11-02 09:34:18,146 - DEBUG - Link element found: True
+2025-11-02 09:34:18,146 - DEBUG - Link element found: True
+2025-11-02 09:34:18,146 - DEBUG - Link element found: True
+2025-11-02 09:34:18,146 - DEBUG - Link element found: True
+2025-11-02 09:34:18,147 - DEBUG - Link element found: True
+2025-11-02 09:34:18,147 - DEBUG - Link element found: True
+2025-11-02 09:34:18,147 - DEBUG - Link element found: True
+2025-11-02 09:34:18,147 - DEBUG - Link element found: True
+2025-11-02 09:34:18,147 - DEBUG - Link element found: True
+2025-11-02 09:34:18,147 - DEBUG - Link element found: True
+2025-11-02 09:34:18,147 - DEBUG - Link element found: True
+2025-11-02 09:34:18,147 - DEBUG - Link element found: True
+2025-11-02 09:34:18,147 - DEBUG - Link element found: True
+2025-11-02 09:34:18,147 - DEBUG - Link element found: True
+2025-11-02 09:34:18,148 - DEBUG - Link element found: True
+2025-11-02 09:34:18,148 - DEBUG - Link element found: True
+2025-11-02 09:34:18,148 - DEBUG - Link element found: True
+2025-11-02 09:34:18,148 - DEBUG - Link element found: True
+2025-11-02 09:34:18,148 - DEBUG - Link element found: True
+2025-11-02 09:34:18,148 - DEBUG - Link element found: True
+2025-11-02 09:34:18,148 - DEBUG - Link element found: True
+2025-11-02 09:34:18,148 - DEBUG - Link element found: True
+2025-11-02 09:34:18,148 - DEBUG - Link element found: True
+2025-11-02 09:34:18,148 - DEBUG - Link element found: True
+2025-11-02 09:34:18,149 - DEBUG - Link element found: True
+2025-11-02 09:34:18,149 - DEBUG - Link element found: True
+2025-11-02 09:34:18,149 - DEBUG - Link element found: True
+2025-11-02 09:34:18,149 - ERROR - Failed with non-retryable exception: 'str' object has no attribute 'startwith'
+2025-11-02 09:34:28,533 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:34:31,243 - DEBUG - Page loaded successfully, proceeding to parse HTML content.
+2025-11-02 09:34:31,273 - DEBUG - HTML content parsed successfully.
+2025-11-02 09:34:31,275 - DEBUG - Articles container found: True
+2025-11-02 09:34:31,277 - DEBUG - Number of articles found: 44
+2025-11-02 09:34:31,278 - DEBUG - Link element found: True
+2025-11-02 09:34:31,278 - DEBUG - Link element found: True
+2025-11-02 09:34:31,278 - DEBUG - Link element found: True
+2025-11-02 09:34:31,278 - DEBUG - Link element found: True
+2025-11-02 09:34:31,278 - DEBUG - Link element found: True
+2025-11-02 09:34:31,278 - DEBUG - Link element found: True
+2025-11-02 09:34:31,278 - DEBUG - Link element found: True
+2025-11-02 09:34:31,279 - DEBUG - Link element found: True
+2025-11-02 09:34:31,279 - DEBUG - Link element found: True
+2025-11-02 09:34:31,279 - DEBUG - Link element found: True
+2025-11-02 09:34:31,279 - DEBUG - Link element found: True
+2025-11-02 09:34:31,279 - DEBUG - Link element found: True
+2025-11-02 09:34:31,279 - DEBUG - Link element found: True
+2025-11-02 09:34:31,279 - DEBUG - Link element found: True
+2025-11-02 09:34:31,279 - DEBUG - Link element found: True
+2025-11-02 09:34:31,279 - DEBUG - Link element found: True
+2025-11-02 09:34:31,280 - DEBUG - Link element found: True
+2025-11-02 09:34:31,280 - DEBUG - Link element found: True
+2025-11-02 09:34:31,280 - DEBUG - Link element found: True
+2025-11-02 09:34:31,280 - DEBUG - Link element found: True
+2025-11-02 09:34:31,280 - DEBUG - Link element found: True
+2025-11-02 09:34:31,280 - DEBUG - Link element found: True
+2025-11-02 09:34:31,280 - DEBUG - Link element found: True
+2025-11-02 09:34:31,280 - DEBUG - Link element found: True
+2025-11-02 09:34:31,280 - DEBUG - Link element found: True
+2025-11-02 09:34:31,280 - DEBUG - Link element found: True
+2025-11-02 09:34:31,280 - DEBUG - Link element found: True
+2025-11-02 09:34:31,281 - DEBUG - Link element found: True
+2025-11-02 09:34:31,281 - DEBUG - Link element found: True
+2025-11-02 09:34:31,281 - DEBUG - Link element found: True
+2025-11-02 09:34:31,281 - DEBUG - Link element found: True
+2025-11-02 09:34:31,281 - DEBUG - Link element found: True
+2025-11-02 09:34:31,281 - DEBUG - Link element found: True
+2025-11-02 09:34:31,281 - DEBUG - Link element found: True
+2025-11-02 09:34:31,281 - DEBUG - Link element found: True
+2025-11-02 09:34:31,281 - DEBUG - Link element found: True
+2025-11-02 09:34:31,281 - DEBUG - Link element found: True
+2025-11-02 09:34:31,282 - DEBUG - Link element found: True
+2025-11-02 09:34:31,282 - DEBUG - Link element found: True
+2025-11-02 09:34:31,282 - DEBUG - Link element found: True
+2025-11-02 09:34:31,282 - DEBUG - Link element found: True
+2025-11-02 09:34:31,282 - DEBUG - Link element found: True
+2025-11-02 09:34:31,282 - DEBUG - Link element found: True
+2025-11-02 09:34:31,282 - DEBUG - Link element found: True
+2025-11-02 09:37:53,576 - DEBUG - Using selector: EpollSelector
+2025-11-02 09:37:56,409 - DEBUG - Page loaded successfully, proceeding to parse HTML content.
+2025-11-02 09:37:56,440 - DEBUG - HTML content parsed successfully.
+2025-11-02 09:37:56,443 - DEBUG - Articles container found: True
+2025-11-02 09:37:56,446 - DEBUG - Number of articles found: 44
+2025-11-02 09:37:56,446 - DEBUG - Link element found: True
+2025-11-02 09:37:56,447 - DEBUG - Link element found: True
+2025-11-02 09:37:56,447 - DEBUG - Link element found: True
+2025-11-02 09:37:56,447 - DEBUG - Link element found: True
+2025-11-02 09:37:56,447 - DEBUG - Link element found: True
+2025-11-02 09:37:56,447 - DEBUG - Link element found: True
+2025-11-02 09:37:56,447 - DEBUG - Link element found: True
+2025-11-02 09:37:56,447 - DEBUG - Link element found: True
+2025-11-02 09:37:56,447 - DEBUG - Link element found: True
+2025-11-02 09:37:56,447 - DEBUG - Link element found: True
+2025-11-02 09:37:56,448 - DEBUG - Link element found: True
+2025-11-02 09:37:56,448 - DEBUG - Link element found: True
+2025-11-02 09:37:56,448 - DEBUG - Link element found: True
+2025-11-02 09:37:56,448 - DEBUG - Link element found: True
+2025-11-02 09:37:56,448 - DEBUG - Link element found: True
+2025-11-02 09:37:56,448 - DEBUG - Link element found: True
+2025-11-02 09:37:56,448 - DEBUG - Link element found: True
+2025-11-02 09:37:56,448 - DEBUG - Link element found: True
+2025-11-02 09:37:56,448 - DEBUG - Link element found: True
+2025-11-02 09:37:56,448 - DEBUG - Link element found: True
+2025-11-02 09:37:56,449 - DEBUG - Link element found: True
+2025-11-02 09:37:56,449 - DEBUG - Link element found: True
+2025-11-02 09:37:56,449 - DEBUG - Link element found: True
+2025-11-02 09:37:56,449 - DEBUG - Link element found: True
+2025-11-02 09:37:56,449 - DEBUG - Link element found: True
+2025-11-02 09:37:56,449 - DEBUG - Link element found: True
+2025-11-02 09:37:56,449 - DEBUG - Link element found: True
+2025-11-02 09:37:56,449 - DEBUG - Link element found: True
+2025-11-02 09:37:56,449 - DEBUG - Link element found: True
+2025-11-02 09:37:56,449 - DEBUG - Link element found: True
+2025-11-02 09:37:56,449 - DEBUG - Link element found: True
+2025-11-02 09:37:56,450 - DEBUG - Link element found: True
+2025-11-02 09:37:56,450 - DEBUG - Link element found: True
+2025-11-02 09:37:56,450 - DEBUG - Link element found: True
+2025-11-02 09:37:56,450 - DEBUG - Link element found: True
+2025-11-02 09:37:56,450 - DEBUG - Link element found: True
+2025-11-02 09:37:56,450 - DEBUG - Link element found: True
+2025-11-02 09:37:56,450 - DEBUG - Link element found: True
+2025-11-02 09:37:56,450 - DEBUG - Link element found: True
+2025-11-02 09:37:56,450 - DEBUG - Link element found: True
+2025-11-02 09:37:56,450 - DEBUG - Link element found: True
+2025-11-02 09:37:56,450 - DEBUG - Link element found: True
+2025-11-02 09:37:56,450 - DEBUG - Link element found: True
+2025-11-02 09:37:56,451 - DEBUG - Link element found: True
+2025-11-03 06:48:47,336 - DEBUG - Using selector: EpollSelector
+2025-11-03 06:48:52,595 - DEBUG - Page loaded successfully, proceeding to parse HTML content.
+2025-11-03 06:48:52,758 - DEBUG - HTML content parsed successfully.
+2025-11-03 06:48:52,771 - DEBUG - Articles container found: True
+2025-11-03 06:48:52,786 - DEBUG - Number of articles found: 44
+2025-11-03 06:48:52,787 - DEBUG - Link element found: True
+2025-11-03 06:48:52,788 - DEBUG - Link element found: True
+2025-11-03 06:48:52,789 - DEBUG - Link element found: True
+2025-11-03 06:48:52,789 - DEBUG - Link element found: True
+2025-11-03 06:48:52,790 - DEBUG - Link element found: True
+2025-11-03 06:48:52,790 - DEBUG - Link element found: True
+2025-11-03 06:48:52,791 - DEBUG - Link element found: True
+2025-11-03 06:48:52,791 - DEBUG - Link element found: True
+2025-11-03 06:48:52,792 - DEBUG - Link element found: True
+2025-11-03 06:48:52,793 - DEBUG - Link element found: True
+2025-11-03 06:48:52,793 - DEBUG - Link element found: True
+2025-11-03 06:48:52,794 - DEBUG - Link element found: True
+2025-11-03 06:48:52,794 - DEBUG - Link element found: True
+2025-11-03 06:48:52,795 - DEBUG - Link element found: True
+2025-11-03 06:48:52,796 - DEBUG - Link element found: True
+2025-11-03 06:48:52,796 - DEBUG - Link element found: True
+2025-11-03 06:48:52,797 - DEBUG - Link element found: True
+2025-11-03 06:48:52,797 - DEBUG - Link element found: True
+2025-11-03 06:48:52,798 - DEBUG - Link element found: True
+2025-11-03 06:48:52,798 - DEBUG - Link element found: True
+2025-11-03 06:48:52,799 - DEBUG - Link element found: True
+2025-11-03 06:48:52,800 - DEBUG - Link element found: True
+2025-11-03 06:48:52,800 - DEBUG - Link element found: True
+2025-11-03 06:48:52,801 - DEBUG - Link element found: True
+2025-11-03 06:48:52,801 - DEBUG - Link element found: True
+2025-11-03 06:48:52,802 - DEBUG - Link element found: True
+2025-11-03 06:48:52,803 - DEBUG - Link element found: True
+2025-11-03 06:48:52,803 - DEBUG - Link element found: True
+2025-11-03 06:48:52,804 - DEBUG - Link element found: True
+2025-11-03 06:48:52,804 - DEBUG - Link element found: True
+2025-11-03 06:48:52,805 - DEBUG - Link element found: True
+2025-11-03 06:48:52,805 - DEBUG - Link element found: True
+2025-11-03 06:48:52,806 - DEBUG - Link element found: True
+2025-11-03 06:48:52,806 - DEBUG - Link element found: True
+2025-11-03 06:48:52,806 - DEBUG - Link element found: True
+2025-11-03 06:48:52,807 - DEBUG - Link element found: True
+2025-11-03 06:48:52,807 - DEBUG - Link element found: True
+2025-11-03 06:48:52,807 - DEBUG - Link element found: True
+2025-11-03 06:48:52,808 - DEBUG - Link element found: True
+2025-11-03 06:48:52,808 - DEBUG - Link element found: True
+2025-11-03 06:48:52,809 - DEBUG - Link element found: True
+2025-11-03 06:48:52,809 - DEBUG - Link element found: True
+2025-11-03 06:48:52,810 - DEBUG - Link element found: True
+2025-11-03 06:48:52,810 - DEBUG - Link element found: True
+2025-11-03 07:00:02,850 - DEBUG - Using selector: EpollSelector
+2025-11-03 07:00:07,576 - DEBUG - Page loaded successfully, proceeding to parse HTML content.
+2025-11-03 07:00:07,743 - DEBUG - HTML content parsed successfully.
+2025-11-03 07:00:07,757 - DEBUG - Articles container found: True
+2025-11-03 07:00:07,775 - DEBUG - Number of articles found: 44
+2025-11-03 07:00:07,776 - DEBUG - Link element found: True
+2025-11-03 07:00:07,777 - DEBUG - Link element found: True
+2025-11-03 07:00:07,777 - DEBUG - Link element found: True
+2025-11-03 07:00:07,778 - DEBUG - Link element found: True
+2025-11-03 07:00:07,779 - DEBUG - Link element found: True
+2025-11-03 07:00:07,779 - DEBUG - Link element found: True
+2025-11-03 07:00:07,780 - DEBUG - Link element found: True
+2025-11-03 07:00:07,781 - DEBUG - Link element found: True
+2025-11-03 07:00:07,781 - DEBUG - Link element found: True
+2025-11-03 07:00:07,782 - DEBUG - Link element found: True
+2025-11-03 07:00:07,783 - DEBUG - Link element found: True
+2025-11-03 07:00:07,783 - DEBUG - Link element found: True
+2025-11-03 07:00:07,784 - DEBUG - Link element found: True
+2025-11-03 07:00:07,784 - DEBUG - Link element found: True
+2025-11-03 07:00:07,785 - DEBUG - Link element found: True
+2025-11-03 07:00:07,785 - DEBUG - Link element found: True
+2025-11-03 07:00:07,786 - DEBUG - Link element found: True
+2025-11-03 07:00:07,786 - DEBUG - Link element found: True
+2025-11-03 07:00:07,786 - DEBUG - Link element found: True
+2025-11-03 07:00:07,787 - DEBUG - Link element found: True
+2025-11-03 07:00:07,787 - DEBUG - Link element found: True
+2025-11-03 07:00:07,787 - DEBUG - Link element found: True
+2025-11-03 07:00:07,788 - DEBUG - Link element found: True
+2025-11-03 07:00:07,788 - DEBUG - Link element found: True
+2025-11-03 07:00:07,789 - DEBUG - Link element found: True
+2025-11-03 07:00:07,789 - DEBUG - Link element found: True
+2025-11-03 07:00:07,790 - DEBUG - Link element found: True
+2025-11-03 07:00:07,790 - DEBUG - Link element found: True
+2025-11-03 07:00:07,790 - DEBUG - Link element found: True
+2025-11-03 07:00:07,791 - DEBUG - Link element found: True
+2025-11-03 07:00:07,791 - DEBUG - Link element found: True
+2025-11-03 07:00:07,792 - DEBUG - Link element found: True
+2025-11-03 07:00:07,792 - DEBUG - Link element found: True
+2025-11-03 07:00:07,793 - DEBUG - Link element found: True
+2025-11-03 07:00:07,793 - DEBUG - Link element found: True
+2025-11-03 07:00:07,793 - DEBUG - Link element found: True
+2025-11-03 07:00:07,794 - DEBUG - Link element found: True
+2025-11-03 07:00:07,794 - DEBUG - Link element found: True
+2025-11-03 07:00:07,795 - DEBUG - Link element found: True
+2025-11-03 07:00:07,795 - DEBUG - Link element found: True
+2025-11-03 07:00:07,796 - DEBUG - Link element found: True
+2025-11-03 07:00:07,796 - DEBUG - Link element found: True
+2025-11-03 07:00:07,796 - DEBUG - Link element found: True
+2025-11-03 07:00:07,797 - DEBUG - Link element found: True
