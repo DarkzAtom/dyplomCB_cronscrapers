@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import functools
 import time
-from playwright.sync_api import sync_playwright
 
 
 # ---LOGGER SETUP ------------------------------------------------------------
@@ -63,21 +62,15 @@ class AbsentAnchorElementException(Exception):
 @retry(exceptions=(AbsentAnchorElementException,), max_attempts=2, delay=1)
 def get_all_links_of_articles_until_lastsaved_met():
     # here using simple requests is sufficient 
-    url = "https://nask.pl/aktualnosci"
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
-        context = browser.new_context()
-        page = context.new_page()
-        try:
-            page.goto(url)
-            page.wait_for_load_state("networkidle")
-        except Exception as e:
-            logger.critical(f"Failed to load page {url}: {e}")
-            raise AbsentAnchorElementException(f"Failed to load page {url}: {e}") from e
+    url = "https://www.enisa.europa.eu/news"
+    
+    # fetching the the content
 
-        html_content = page.content()
-        browser.close()
-
+    try:
+        response = requests.get(url)
+    except requests.RequestException as e:
+        logger.error(f"Request failed: {e}")
+        raise
     logger.debug("Page loaded successfully, proceeding to parse HTML content.")
 
     soup = BeautifulSoup(html_content, "html.parser")
@@ -129,7 +122,7 @@ def get_all_links_of_articles_until_lastsaved_met():
     if collected_links_list:
         lastsaved_articlelink = collected_links_list[0]
 
-    with open("sekurak/lastsaved_articlelink.txt", "w") as file:
+    with open("enisa-europa/lastsaved_articlelink.txt", "w") as file:
         file.write(lastsaved_articlelink)
 
     for link in collected_links_list:
